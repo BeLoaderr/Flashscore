@@ -1,0 +1,4349 @@
+{
+    "Atalanta - Club Brugge": {
+        "CAMPIONATO": "EUROPA: Champions League - Play Off",
+        "MATCH_CODE": "p4Ass5p2",
+        "MATCH_TIME": "202502182100",
+        "CASA": {},
+        "OSPITE": {},
+        "ODDS": {
+            "OVER 2.5": "1.73",
+            "UNDER 2.5": "2.1"
+        }
+    },
+    "Bayern - Celtic": {
+        "CAMPIONATO": "EUROPA: Champions League - Play Off",
+        "MATCH_CODE": "hzHaWmWq",
+        "MATCH_TIME": "202502182100",
+        "CASA": {},
+        "OSPITE": {},
+        "ODDS": {
+            "OVER 2.5": "1.33",
+            "UNDER 2.5": "3.4"
+        }
+    },
+    "Benfica - Monaco": {
+        "CAMPIONATO": "EUROPA: Champions League - Play Off",
+        "MATCH_CODE": "QPWKwWwA",
+        "MATCH_TIME": "202502182100",
+        "CASA": {},
+        "OSPITE": {},
+        "ODDS": {
+            "OVER 2.5": "1.44",
+            "UNDER 2.5": "2.75"
+        }
+    },
+    "USM Alger - Magra": {
+        "CAMPIONATO": "ALGERIA: Ligue 1",
+        "MATCH_CODE": "zg7H55Tn",
+        "MATCH_TIME": "202502182000",
+        "CASA": {
+            "GFC": 12,
+            "GSC": 5,
+            "PG": 8,
+            "GFF5": 9,
+            "GSF5": 4,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "1-0",
+                    "2": "2-0"
+                },
+                "Partita 2": {
+                    "1": "0-1",
+                    "2": "1-0"
+                },
+                "Partita 3": {
+                    "1": "0-0",
+                    "2": "0-3"
+                },
+                "Partita 4": {
+                    "1": "0-0",
+                    "2": "3-0"
+                },
+                "Partita 5": {
+                    "1": "1-0",
+                    "2": "1-0"
+                }
+            }
+        },
+        "OSPITE": {
+            "GFC": 3,
+            "GSC": 11,
+            "PG": 8,
+            "GFF5": 3,
+            "GSF5": 6,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "0-0",
+                    "2": "0-0"
+                },
+                "Partita 2": {
+                    "1": "1-1",
+                    "2": "1-0"
+                },
+                "Partita 3": {
+                    "1": "1-1",
+                    "2": "1-1"
+                },
+                "Partita 4": {
+                    "1": "0-0",
+                    "2": "1-0"
+                },
+                "Partita 5": {
+                    "1": "1-0",
+                    "2": "0-0"
+                }
+            }
+        },
+        "ODDS": {
+            "OVER 2.5": "0",
+            "UNDER 2.5": "0"
+        }
+    },
+    "Argentino de Quilmes - Sportivo Italiano": {
+        "CAMPIONATO": "ARGENTINA: Primera B - Apertura",
+        "MATCH_CODE": "ELFVesHD",
+        "MATCH_TIME": "202502182100",
+        "CASA": {
+            "GFC": 2,
+            "GSC": 1,
+            "PG": 1,
+            "GFF5": 0,
+            "GSF5": 0,
+            "PARTITE": {}
+        },
+        "OSPITE": {
+            "GFC": 1,
+            "GSC": 1,
+            "PG": 1,
+            "GFF5": 0,
+            "GSF5": 0,
+            "PARTITE": {}
+        },
+        "ODDS": {
+            "OVER 2.5": "0",
+            "UNDER 2.5": "0"
+        }
+    },
+    "Deportivo Armenio - San Martin Burzaco": {
+        "CAMPIONATO": "ARGENTINA: Primera B - Apertura",
+        "MATCH_CODE": "AXjtjf0b",
+        "MATCH_TIME": "202502182100",
+        "CASA": {
+            "GFC": 3,
+            "GSC": 0,
+            "PG": 1,
+            "GFF5": 0,
+            "GSF5": 0,
+            "PARTITE": {}
+        },
+        "OSPITE": {
+            "GFC": 0,
+            "GSC": 0,
+            "PG": 0,
+            "GFF5": 0,
+            "GSF5": 0,
+            "PARTITE": {}
+        },
+        "ODDS": {
+            "OVER 2.5": "0",
+            "UNDER 2.5": "0"
+        }
+    },
+    "Flandria - Real Pilar": {
+        "CAMPIONATO": "ARGENTINA: Primera B - Apertura",
+        "MATCH_CODE": "0GKk1xgg",
+        "MATCH_TIME": "202502182100",
+        "CASA": {
+            "GFC": 1,
+            "GSC": 1,
+            "PG": 1,
+            "GFF5": 0,
+            "GSF5": 0,
+            "PARTITE": {}
+        },
+        "OSPITE": {
+            "GFC": 2,
+            "GSC": 1,
+            "PG": 1,
+            "GFF5": 0,
+            "GSF5": 0,
+            "PARTITE": {}
+        },
+        "ODDS": {
+            "OVER 2.5": "0",
+            "UNDER 2.5": "0"
+        }
+    },
+    "Liniers - Deportivo Merlo": {
+        "CAMPIONATO": "ARGENTINA: Primera B - Apertura",
+        "MATCH_CODE": "2NPDeYMU",
+        "MATCH_TIME": "202502182100",
+        "CASA": {
+            "GFC": 0,
+            "GSC": 1,
+            "PG": 1,
+            "GFF5": 0,
+            "GSF5": 0,
+            "PARTITE": {}
+        },
+        "OSPITE": {
+            "GFC": 0,
+            "GSC": 3,
+            "PG": 1,
+            "GFF5": 0,
+            "GSF5": 0,
+            "PARTITE": {}
+        },
+        "ODDS": {
+            "OVER 2.5": "0",
+            "UNDER 2.5": "0"
+        }
+    },
+    "Villa Dalmine - UAI Urquiza": {
+        "CAMPIONATO": "ARGENTINA: Primera B - Apertura",
+        "MATCH_CODE": "4lRt3bOt",
+        "MATCH_TIME": "202502182100",
+        "CASA": {
+            "GFC": 0,
+            "GSC": 0,
+            "PG": 1,
+            "GFF5": 0,
+            "GSF5": 0,
+            "PARTITE": {}
+        },
+        "OSPITE": {
+            "GFC": 0,
+            "GSC": 1,
+            "PG": 1,
+            "GFF5": 0,
+            "GSF5": 0,
+            "PARTITE": {}
+        },
+        "ODDS": {
+            "OVER 2.5": "0",
+            "UNDER 2.5": "0"
+        }
+    },
+    "Argentino de Merlo - Midland": {
+        "CAMPIONATO": "ARGENTINA: Primera B - Apertura",
+        "MATCH_CODE": "KMMMc3n1",
+        "MATCH_TIME": "202502180030",
+        "CASA": {
+            "GFC": 1,
+            "GSC": 2,
+            "PG": 1,
+            "GFF5": 0,
+            "GSF5": 0,
+            "PARTITE": {}
+        },
+        "OSPITE": {
+            "GFC": 0,
+            "GSC": 0,
+            "PG": 1,
+            "GFF5": 0,
+            "GSF5": 0,
+            "PARTITE": {}
+        },
+        "ODDS": {
+            "OVER 2.5": "0",
+            "UNDER 2.5": "0"
+        }
+    },
+    "Defensa y Justicia 2 - Banfield 2": {
+        "CAMPIONATO": "ARGENTINA: Reserve League - Apertura",
+        "MATCH_CODE": "bFM3bDo3",
+        "MATCH_TIME": "202502182100",
+        "CASA": {
+            "GFC": 0,
+            "GSC": 0,
+            "PG": 0,
+            "GFF5": 0,
+            "GSF5": 0,
+            "PARTITE": {}
+        },
+        "OSPITE": {
+            "GFC": 0,
+            "GSC": 0,
+            "PG": 0,
+            "GFF5": 0,
+            "GSF5": 0,
+            "PARTITE": {}
+        },
+        "ODDS": {
+            "OVER 2.5": "0",
+            "UNDER 2.5": "0"
+        }
+    },
+    "Estudiantes 2 - Union Santa Fe 2": {
+        "CAMPIONATO": "ARGENTINA: Reserve League - Apertura",
+        "MATCH_CODE": "0Kfwrh1M",
+        "MATCH_TIME": "202502182100",
+        "CASA": {
+            "GFC": 0,
+            "GSC": 0,
+            "PG": 0,
+            "GFF5": 0,
+            "GSF5": 0,
+            "PARTITE": {}
+        },
+        "OSPITE": {
+            "GFC": 0,
+            "GSC": 0,
+            "PG": 0,
+            "GFF5": 0,
+            "GSF5": 0,
+            "PARTITE": {}
+        },
+        "ODDS": {
+            "OVER 2.5": "0",
+            "UNDER 2.5": "0"
+        }
+    },
+    "Independiente 2 - Sarmiento Junin 2": {
+        "CAMPIONATO": "ARGENTINA: Reserve League - Apertura",
+        "MATCH_CODE": "hIZHzAgd",
+        "MATCH_TIME": "202502182100",
+        "CASA": {
+            "GFC": 0,
+            "GSC": 0,
+            "PG": 0,
+            "GFF5": 0,
+            "GSF5": 0,
+            "PARTITE": {}
+        },
+        "OSPITE": {
+            "GFC": 0,
+            "GSC": 0,
+            "PG": 0,
+            "GFF5": 0,
+            "GSF5": 0,
+            "PARTITE": {}
+        },
+        "ODDS": {
+            "OVER 2.5": "0",
+            "UNDER 2.5": "0"
+        }
+    },
+    "Belgrano 2 - Huracan 2": {
+        "CAMPIONATO": "ARGENTINA: Reserve League - Apertura",
+        "MATCH_CODE": "W2o9xWOq",
+        "MATCH_TIME": "202502182300",
+        "CASA": {
+            "GFC": 0,
+            "GSC": 0,
+            "PG": 0,
+            "GFF5": 0,
+            "GSF5": 0,
+            "PARTITE": {}
+        },
+        "OSPITE": {
+            "GFC": 0,
+            "GSC": 0,
+            "PG": 0,
+            "GFF5": 0,
+            "GSF5": 0,
+            "PARTITE": {}
+        },
+        "ODDS": {
+            "OVER 2.5": "0",
+            "UNDER 2.5": "0"
+        }
+    },
+    "Always Ready - Real Oruro": {
+        "CAMPIONATO": "BOLIVIA: Torneo Amistoso de Verano",
+        "MATCH_CODE": "zV4rsbMj",
+        "MATCH_TIME": "202502182000",
+        "CASA": {},
+        "OSPITE": {},
+        "ODDS": {
+            "OVER 2.5": "0",
+            "UNDER 2.5": "0"
+        }
+    },
+    "Jaguare - Vitoria ES": {
+        "CAMPIONATO": "BRASILE: Capixaba",
+        "MATCH_CODE": "QVoDtcqA",
+        "MATCH_TIME": "202502182300",
+        "CASA": {
+            "GFC": 0,
+            "GSC": 6,
+            "PG": 3,
+            "GFF5": 0,
+            "GSF5": 0,
+            "PARTITE": {}
+        },
+        "OSPITE": {
+            "GFC": 2,
+            "GSC": 3,
+            "PG": 3,
+            "GFF5": 0,
+            "GSF5": 0,
+            "PARTITE": {}
+        },
+        "ODDS": {
+            "OVER 2.5": "0",
+            "UNDER 2.5": "0"
+        }
+    },
+    "Tuntum - Iape": {
+        "CAMPIONATO": "BRASILE: Maranhense",
+        "MATCH_CODE": "Igtsc5LP",
+        "MATCH_TIME": "202502181930",
+        "CASA": {
+            "GFC": 5,
+            "GSC": 6,
+            "PG": 4,
+            "GFF5": 0,
+            "GSF5": 0,
+            "PARTITE": {}
+        },
+        "OSPITE": {
+            "GFC": 4,
+            "GSC": 1,
+            "PG": 2,
+            "GFF5": 0,
+            "GSF5": 0,
+            "PARTITE": {}
+        },
+        "ODDS": {
+            "OVER 2.5": "0",
+            "UNDER 2.5": "0"
+        }
+    },
+    "Atl. Roraima - Sao Raimundo RR": {
+        "CAMPIONATO": "BRASILE: Roraimense",
+        "MATCH_CODE": "UuO9nfZ1",
+        "MATCH_TIME": "202502182300",
+        "CASA": {
+            "GFC": 0,
+            "GSC": 0,
+            "PG": 0,
+            "GFF5": 0,
+            "GSF5": 0,
+            "PARTITE": {}
+        },
+        "OSPITE": {
+            "GFC": 0,
+            "GSC": 0,
+            "PG": 0,
+            "GFF5": 0,
+            "GSF5": 0,
+            "PARTITE": {}
+        },
+        "ODDS": {
+            "OVER 2.5": "0",
+            "UNDER 2.5": "0"
+        }
+    },
+    "Tocantinopolis - Atletico-MG": {
+        "CAMPIONATO": "BRASILE: Copa Betano do Brasil",
+        "MATCH_CODE": "bRGpc7Kq",
+        "MATCH_TIME": "202502182200",
+        "CASA": {},
+        "OSPITE": {},
+        "ODDS": {
+            "OVER 2.5": "1.57",
+            "UNDER 2.5": "2.35"
+        }
+    },
+    "Guarany Alagoano - CRB": {
+        "CAMPIONATO": "BRASILE: Copa Alagoas",
+        "MATCH_CODE": "YXdH3Bwo",
+        "MATCH_TIME": "202502181900",
+        "CASA": {
+            "GFC": 1,
+            "GSC": 1,
+            "PG": 1
+        },
+        "OSPITE": {
+            "GFC": 1,
+            "GSC": 1,
+            "PG": 1
+        },
+        "ODDS": {
+            "OVER 2.5": "0",
+            "UNDER 2.5": "0"
+        }
+    },
+    "America-RN - Confianca": {
+        "CAMPIONATO": "BRASILE: Copa do Nordeste",
+        "MATCH_CODE": "0W2AA8KU",
+        "MATCH_TIME": "202502182300",
+        "CASA": {
+            "GFC": 2,
+            "GSC": 1,
+            "PG": 1
+        },
+        "OSPITE": {
+            "GFC": 2,
+            "GSC": 3,
+            "PG": 2
+        },
+        "ODDS": {
+            "OVER 2.5": "2.15",
+            "UNDER 2.5": "1.67"
+        }
+    },
+    "Bucaramanga - Alianza": {
+        "CAMPIONATO": "COLOMBIA: Primera A - Apertura",
+        "MATCH_CODE": "SAGzxG1T",
+        "MATCH_TIME": "202502182200",
+        "CASA": {
+            "GFC": 0,
+            "GSC": 4,
+            "PG": 1,
+            "GFF5": 0,
+            "GSF5": 0,
+            "PARTITE": {}
+        },
+        "OSPITE": {
+            "GFC": 1,
+            "GSC": 3,
+            "PG": 2,
+            "GFF5": 0,
+            "GSF5": 0,
+            "PARTITE": {}
+        },
+        "ODDS": {
+            "OVER 2.5": "2.7",
+            "UNDER 2.5": "1.44"
+        }
+    },
+    "Llaneros - Dep. Cali": {
+        "CAMPIONATO": "COLOMBIA: Primera A - Apertura",
+        "MATCH_CODE": "v98z7z13",
+        "MATCH_TIME": "202502180010",
+        "CASA": {
+            "GFC": 4,
+            "GSC": 2,
+            "PG": 2,
+            "GFF5": 0,
+            "GSF5": 0,
+            "PARTITE": {}
+        },
+        "OSPITE": {
+            "GFC": 0,
+            "GSC": 1,
+            "PG": 2,
+            "GFF5": 0,
+            "GSF5": 0,
+            "PARTITE": {}
+        },
+        "ODDS": {
+            "OVER 2.5": "2.5",
+            "UNDER 2.5": "1.5"
+        }
+    },
+    "Penrhyncoch - Caersws": {
+        "CAMPIONATO": "GALLES: Cymru North",
+        "MATCH_CODE": "2ugv4Cbf",
+        "MATCH_TIME": "202502182030",
+        "CASA": {
+            "GFC": 20,
+            "GSC": 15,
+            "PG": 9,
+            "GFF5": 11,
+            "GSF5": 6,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "0-0",
+                    "2": "0-0"
+                },
+                "Partita 2": {
+                    "1": "1-1",
+                    "2": "3-1"
+                },
+                "Partita 3": {
+                    "1": "1-0",
+                    "2": "0-1"
+                },
+                "Partita 4": {
+                    "1": "0-0",
+                    "2": "5-0"
+                },
+                "Partita 5": {
+                    "1": "0-2",
+                    "2": "1-1"
+                }
+            }
+        },
+        "OSPITE": {
+            "GFC": 9,
+            "GSC": 20,
+            "PG": 10,
+            "GFF5": 3,
+            "GSF5": 11,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "1-1",
+                    "2": "1-1"
+                },
+                "Partita 2": {
+                    "1": "0-0",
+                    "2": "1-0"
+                },
+                "Partita 3": {
+                    "1": "2-0",
+                    "2": "3-0"
+                },
+                "Partita 4": {
+                    "1": "1-0",
+                    "2": "1-0"
+                },
+                "Partita 5": {
+                    "1": "0-0",
+                    "2": "1-1"
+                }
+            }
+        },
+        "ODDS": {
+            "OVER 2.5": "0",
+            "UNDER 2.5": "0"
+        }
+    },
+    "Denbigh - Flint Mountain": {
+        "CAMPIONATO": "GALLES: Cymru North",
+        "MATCH_CODE": "8IX4kDq1",
+        "MATCH_TIME": "202502182045",
+        "CASA": {
+            "GFC": 27,
+            "GSC": 22,
+            "PG": 11,
+            "GFF5": 11,
+            "GSF5": 10,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "0-0",
+                    "2": "3-0"
+                },
+                "Partita 2": {
+                    "1": "2-2",
+                    "2": "1-0"
+                },
+                "Partita 3": {
+                    "1": "2-0",
+                    "2": "0-4"
+                },
+                "Partita 4": {},
+                "Partita 5": {
+                    "1": "0-1",
+                    "2": "1-1"
+                }
+            }
+        },
+        "OSPITE": {
+            "GFC": 22,
+            "GSC": 18,
+            "PG": 11,
+            "GFF5": 11,
+            "GSF5": 4,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "0-1",
+                    "2": "1-0"
+                },
+                "Partita 2": {},
+                "Partita 3": {
+                    "1": "0-4",
+                    "2": "0-3"
+                },
+                "Partita 4": {
+                    "1": "1-0",
+                    "2": "1-1"
+                },
+                "Partita 5": {
+                    "1": "0-0",
+                    "2": "0-1"
+                }
+            }
+        },
+        "ODDS": {
+            "OVER 2.5": "0",
+            "UNDER 2.5": "0"
+        }
+    },
+    "CF GR/SIAF - AS Arta": {
+        "CAMPIONATO": "GIBUTI: Division 1",
+        "MATCH_CODE": "651Xrc7e",
+        "MATCH_TIME": "202502181700",
+        "CASA": {
+            "GFC": 4,
+            "GSC": 7,
+            "PG": 5,
+            "GFF5": 4,
+            "GSF5": 7,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "0-1",
+                    "2": "0-0"
+                },
+                "Partita 2": {},
+                "Partita 3": {
+                    "1": "0-1",
+                    "2": "1-0"
+                },
+                "Partita 4": {
+                    "1": "1-1",
+                    "2": "1-0"
+                },
+                "Partita 5": {}
+            }
+        },
+        "OSPITE": {
+            "GFC": 7,
+            "GSC": 4,
+            "PG": 4,
+            "GFF5": 0,
+            "GSF5": 0,
+            "PARTITE": {}
+        },
+        "ODDS": {
+            "OVER 2.5": "0",
+            "UNDER 2.5": "0"
+        }
+    },
+    "Preston - Millwall": {
+        "CAMPIONATO": "INGHILTERRA: Championship",
+        "MATCH_CODE": "2wnBpT4T",
+        "MATCH_TIME": "202502182045",
+        "CASA": {
+            "GFC": 18,
+            "GSC": 13,
+            "PG": 16,
+            "GFF5": 7,
+            "GSF5": 3,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "0-0",
+                    "2": "0-0"
+                },
+                "Partita 2": {
+                    "1": "1-0",
+                    "2": "1-1"
+                },
+                "Partita 3": {
+                    "1": "0-1",
+                    "2": "1-0"
+                },
+                "Partita 4": {
+                    "1": "1-0",
+                    "2": "2-1"
+                },
+                "Partita 5": {
+                    "1": "0-0",
+                    "2": "1-0"
+                }
+            }
+        },
+        "OSPITE": {
+            "GFC": 13,
+            "GSC": 18,
+            "PG": 15,
+            "GFF5": 5,
+            "GSF5": 7,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "2-0",
+                    "2": "3-1"
+                },
+                "Partita 2": {
+                    "1": "0-1",
+                    "2": "0-0"
+                },
+                "Partita 3": {
+                    "1": "0-0",
+                    "2": "0-1"
+                },
+                "Partita 4": {
+                    "1": "1-0",
+                    "2": "1-2"
+                },
+                "Partita 5": {
+                    "1": "0-0",
+                    "2": "0-0"
+                }
+            }
+        },
+        "ODDS": {
+            "OVER 2.5": "3.2",
+            "UNDER 2.5": "1.36"
+        }
+    },
+    "Crawley - Wigan": {
+        "CAMPIONATO": "INGHILTERRA: League One",
+        "MATCH_CODE": "0Sr2LmYO",
+        "MATCH_TIME": "202502182045",
+        "CASA": {
+            "GFC": 18,
+            "GSC": 22,
+            "PG": 14,
+            "GFF5": 6,
+            "GSF5": 6,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "1-1",
+                    "2": "0-0"
+                },
+                "Partita 2": {
+                    "1": "0-0",
+                    "2": "3-1"
+                },
+                "Partita 3": {
+                    "1": "0-1",
+                    "2": "1-1"
+                },
+                "Partita 4": {
+                    "1": "0-1",
+                    "2": "1-0"
+                },
+                "Partita 5": {
+                    "1": "0-0",
+                    "2": "0-1"
+                }
+            }
+        },
+        "OSPITE": {
+            "GFC": 14,
+            "GSC": 13,
+            "PG": 14,
+            "GFF5": 6,
+            "GSF5": 4,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "1-0",
+                    "2": "0-0"
+                },
+                "Partita 2": {
+                    "1": "0-0",
+                    "2": "1-2"
+                },
+                "Partita 3": {
+                    "1": "0-0",
+                    "2": "2-1"
+                },
+                "Partita 4": {
+                    "1": "0-1",
+                    "2": "0-0"
+                },
+                "Partita 5": {
+                    "1": "0-1",
+                    "2": "0-1"
+                }
+            }
+        },
+        "ODDS": {
+            "OVER 2.5": "2.08",
+            "UNDER 2.5": "1.73"
+        }
+    },
+    "Mansfield - Lincoln": {
+        "CAMPIONATO": "INGHILTERRA: League One",
+        "MATCH_CODE": "vgECuiJt",
+        "MATCH_TIME": "202502182045",
+        "CASA": {
+            "GFC": 16,
+            "GSC": 16,
+            "PG": 14,
+            "GFF5": 4,
+            "GSF5": 5,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "0-0",
+                    "2": "0-1"
+                },
+                "Partita 2": {
+                    "1": "0-0",
+                    "2": "0-1"
+                },
+                "Partita 3": {
+                    "1": "0-0",
+                    "2": "1-2"
+                },
+                "Partita 4": {
+                    "1": "2-1",
+                    "2": "0-0"
+                },
+                "Partita 5": {
+                    "1": "1-0",
+                    "2": "0-0"
+                }
+            }
+        },
+        "OSPITE": {
+            "GFC": 16,
+            "GSC": 21,
+            "PG": 16,
+            "GFF5": 4,
+            "GSF5": 8,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "2-1",
+                    "2": "1-1"
+                },
+                "Partita 2": {
+                    "1": "1-0",
+                    "2": "0-1"
+                },
+                "Partita 3": {
+                    "1": "0-1",
+                    "2": "0-0"
+                },
+                "Partita 4": {
+                    "1": "1-0",
+                    "2": "2-0"
+                },
+                "Partita 5": {
+                    "1": "1-0",
+                    "2": "0-0"
+                }
+            }
+        },
+        "ODDS": {
+            "OVER 2.5": "2.4",
+            "UNDER 2.5": "1.53"
+        }
+    },
+    "Shrewsbury - Huddersfield": {
+        "CAMPIONATO": "INGHILTERRA: League One",
+        "MATCH_CODE": "d8HqYQHU",
+        "MATCH_TIME": "202502182045",
+        "CASA": {
+            "GFC": 18,
+            "GSC": 26,
+            "PG": 15,
+            "GFF5": 8,
+            "GSF5": 6,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "1-0",
+                    "2": "1-3"
+                },
+                "Partita 2": {
+                    "1": "0-1",
+                    "2": "2-0"
+                },
+                "Partita 3": {
+                    "1": "1-1",
+                    "2": "1-0"
+                },
+                "Partita 4": {
+                    "1": "0-0",
+                    "2": "1-1"
+                },
+                "Partita 5": {
+                    "1": "1-0",
+                    "2": "0-0"
+                }
+            }
+        },
+        "OSPITE": {
+            "GFC": 25,
+            "GSC": 14,
+            "PG": 14,
+            "GFF5": 11,
+            "GSF5": 6,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "1-0",
+                    "2": "0-2"
+                },
+                "Partita 2": {
+                    "1": "2-0",
+                    "2": "1-2"
+                },
+                "Partita 3": {
+                    "1": "2-0",
+                    "2": "0-2"
+                },
+                "Partita 4": {
+                    "1": "0-1",
+                    "2": "0-0"
+                },
+                "Partita 5": {
+                    "1": "0-3",
+                    "2": "0-1"
+                }
+            }
+        },
+        "ODDS": {
+            "OVER 2.5": "2.5",
+            "UNDER 2.5": "1.5"
+        }
+    },
+    "Stevenage - Burton": {
+        "CAMPIONATO": "INGHILTERRA: League One",
+        "MATCH_CODE": "CKighU2n",
+        "MATCH_TIME": "202502182045",
+        "CASA": {
+            "GFC": 21,
+            "GSC": 16,
+            "PG": 16,
+            "GFF5": 9,
+            "GSF5": 7,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "0-0",
+                    "2": "1-1"
+                },
+                "Partita 2": {
+                    "1": "2-1",
+                    "2": "2-0"
+                },
+                "Partita 3": {
+                    "1": "0-0",
+                    "2": "1-2"
+                },
+                "Partita 4": {
+                    "1": "1-0",
+                    "2": "2-0"
+                },
+                "Partita 5": {
+                    "1": "0-2",
+                    "2": "0-1"
+                }
+            }
+        },
+        "OSPITE": {
+            "GFC": 13,
+            "GSC": 22,
+            "PG": 15,
+            "GFF5": 5,
+            "GSF5": 6,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "1-0",
+                    "2": "2-1"
+                },
+                "Partita 2": {
+                    "1": "0-0",
+                    "2": "0-0"
+                },
+                "Partita 3": {
+                    "1": "1-1",
+                    "2": "0-1"
+                },
+                "Partita 4": {
+                    "1": "0-1",
+                    "2": "1-0"
+                },
+                "Partita 5": {
+                    "1": "0-1",
+                    "2": "1-0"
+                }
+            }
+        },
+        "ODDS": {
+            "OVER 2.5": "2.4",
+            "UNDER 2.5": "1.53"
+        }
+    },
+    "Wrexham - Leyton Orient": {
+        "CAMPIONATO": "INGHILTERRA: League One",
+        "MATCH_CODE": "8WhczLhL",
+        "MATCH_TIME": "202502182045",
+        "CASA": {
+            "GFC": 31,
+            "GSC": 12,
+            "PG": 16,
+            "GFF5": 8,
+            "GSF5": 6,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "0-2",
+                    "2": "2-1"
+                },
+                "Partita 2": {
+                    "1": "1-1",
+                    "2": "0-0"
+                },
+                "Partita 3": {
+                    "1": "0-0",
+                    "2": "1-0"
+                },
+                "Partita 4": {
+                    "1": "0-0",
+                    "2": "2-1"
+                },
+                "Partita 5": {
+                    "1": "1-1",
+                    "2": "1-0"
+                }
+            }
+        },
+        "OSPITE": {
+            "GFC": 21,
+            "GSC": 15,
+            "PG": 13,
+            "GFF5": 15,
+            "GSF5": 4,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "0-4",
+                    "2": "2-2"
+                },
+                "Partita 2": {
+                    "1": "0-0",
+                    "2": "0-0"
+                },
+                "Partita 3": {
+                    "1": "1-2",
+                    "2": "1-1"
+                },
+                "Partita 4": {
+                    "1": "0-2",
+                    "2": "0-2"
+                },
+                "Partita 5": {
+                    "1": "0-1",
+                    "2": "0-1"
+                }
+            }
+        },
+        "ODDS": {
+            "OVER 2.5": "2.35",
+            "UNDER 2.5": "1.57"
+        }
+    },
+    "Wycombe - Bristol Rovers": {
+        "CAMPIONATO": "INGHILTERRA: League One",
+        "MATCH_CODE": "Kbn2k2Mh",
+        "MATCH_TIME": "202502182045",
+        "CASA": {
+            "GFC": 20,
+            "GSC": 10,
+            "PG": 14,
+            "GFF5": 5,
+            "GSF5": 4,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "0-1",
+                    "2": "2-0"
+                },
+                "Partita 2": {
+                    "1": "0-0",
+                    "2": "0-0"
+                },
+                "Partita 3": {
+                    "1": "0-1",
+                    "2": "0-0"
+                },
+                "Partita 4": {
+                    "1": "1-0",
+                    "2": "0-1"
+                },
+                "Partita 5": {
+                    "1": "0-0",
+                    "2": "2-1"
+                }
+            }
+        },
+        "OSPITE": {
+            "GFC": 10,
+            "GSC": 27,
+            "PG": 15,
+            "GFF5": 2,
+            "GSF5": 10,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "2-0",
+                    "2": "0-0"
+                },
+                "Partita 2": {
+                    "1": "1-0",
+                    "2": "1-0"
+                },
+                "Partita 3": {
+                    "1": "0-1",
+                    "2": "0-0"
+                },
+                "Partita 4": {
+                    "1": "1-0",
+                    "2": "2-0"
+                },
+                "Partita 5": {
+                    "1": "0-0",
+                    "2": "3-1"
+                }
+            }
+        },
+        "ODDS": {
+            "OVER 2.5": "1.8",
+            "UNDER 2.5": "2"
+        }
+    },
+    "Fleetwood - Wimbledon": {
+        "CAMPIONATO": "INGHILTERRA: League Two",
+        "MATCH_CODE": "6mGZHhGl",
+        "MATCH_TIME": "202502182045",
+        "CASA": {
+            "GFC": 19,
+            "GSC": 14,
+            "PG": 16,
+            "GFF5": 8,
+            "GSF5": 4,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "1-0",
+                    "2": "1-0"
+                },
+                "Partita 2": {
+                    "1": "2-0",
+                    "2": "0-0"
+                },
+                "Partita 3": {
+                    "1": "0-1",
+                    "2": "1-1"
+                },
+                "Partita 4": {
+                    "1": "1-0",
+                    "2": "1-1"
+                },
+                "Partita 5": {
+                    "1": "1-1",
+                    "2": "0-0"
+                }
+            }
+        },
+        "OSPITE": {
+            "GFC": 14,
+            "GSC": 11,
+            "PG": 14,
+            "GFF5": 3,
+            "GSF5": 3,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "0-0",
+                    "2": "0-0"
+                },
+                "Partita 2": {
+                    "1": "1-1",
+                    "2": "0-0"
+                },
+                "Partita 3": {
+                    "1": "0-0",
+                    "2": "0-0"
+                },
+                "Partita 4": {
+                    "1": "0-0",
+                    "2": "1-2"
+                },
+                "Partita 5": {
+                    "1": "1-0",
+                    "2": "0-0"
+                }
+            }
+        },
+        "ODDS": {
+            "OVER 2.5": "2.7",
+            "UNDER 2.5": "1.44"
+        }
+    },
+    "Morecambe - Doncaster": {
+        "CAMPIONATO": "INGHILTERRA: League Two",
+        "MATCH_CODE": "pMucRHAa",
+        "MATCH_TIME": "202502182045",
+        "CASA": {
+            "GFC": 16,
+            "GSC": 24,
+            "PG": 14,
+            "GFF5": 8,
+            "GSF5": 5,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "0-0",
+                    "2": "2-0"
+                },
+                "Partita 2": {
+                    "1": "1-1",
+                    "2": "3-1"
+                },
+                "Partita 3": {
+                    "1": "0-0",
+                    "2": "0-1"
+                },
+                "Partita 4": {
+                    "1": "0-0",
+                    "2": "2-0"
+                },
+                "Partita 5": {
+                    "1": "0-1",
+                    "2": "0-1"
+                }
+            }
+        },
+        "OSPITE": {
+            "GFC": 23,
+            "GSC": 22,
+            "PG": 15,
+            "GFF5": 7,
+            "GSF5": 9,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "2-1",
+                    "2": "3-1"
+                },
+                "Partita 2": {
+                    "1": "1-2",
+                    "2": "0-1"
+                },
+                "Partita 3": {
+                    "1": "0-1",
+                    "2": "0-0"
+                },
+                "Partita 4": {
+                    "1": "0-1",
+                    "2": "1-0"
+                },
+                "Partita 5": {
+                    "1": "0-0",
+                    "2": "2-0"
+                }
+            }
+        },
+        "ODDS": {
+            "OVER 2.5": "1.98",
+            "UNDER 2.5": "1.88"
+        }
+    },
+    "Notts County - Colchester": {
+        "CAMPIONATO": "INGHILTERRA: League Two",
+        "MATCH_CODE": "bkJ7wiPr",
+        "MATCH_TIME": "202502182045",
+        "CASA": {
+            "GFC": 20,
+            "GSC": 8,
+            "PG": 14,
+            "GFF5": 7,
+            "GSF5": 3,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "0-0",
+                    "2": "2-0"
+                },
+                "Partita 2": {
+                    "1": "1-0",
+                    "2": "0-0"
+                },
+                "Partita 3": {
+                    "1": "0-0",
+                    "2": "1-1"
+                },
+                "Partita 4": {
+                    "1": "2-0",
+                    "2": "0-0"
+                },
+                "Partita 5": {
+                    "1": "1-0",
+                    "2": "0-2"
+                }
+            }
+        },
+        "OSPITE": {
+            "GFC": 16,
+            "GSC": 19,
+            "PG": 15,
+            "GFF5": 6,
+            "GSF5": 4,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "0-0",
+                    "2": "0-0"
+                },
+                "Partita 2": {
+                    "1": "0-2",
+                    "2": "1-1"
+                },
+                "Partita 3": {
+                    "1": "0-0",
+                    "2": "0-0"
+                },
+                "Partita 4": {
+                    "1": "0-1",
+                    "2": "0-0"
+                },
+                "Partita 5": {
+                    "1": "1-1",
+                    "2": "2-1"
+                }
+            }
+        },
+        "ODDS": {
+            "OVER 2.5": "2.3",
+            "UNDER 2.5": "1.6"
+        }
+    },
+    "AFC Fylde - Boston Utd": {
+        "CAMPIONATO": "INGHILTERRA: National League",
+        "MATCH_CODE": "zydSuKJc",
+        "MATCH_TIME": "202502182045",
+        "CASA": {
+            "GFC": 27,
+            "GSC": 25,
+            "PG": 15,
+            "GFF5": 7,
+            "GSF5": 8,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "0-1",
+                    "2": "1-0"
+                },
+                "Partita 2": {
+                    "1": "0-0",
+                    "2": "1-2"
+                },
+                "Partita 3": {
+                    "1": "0-0",
+                    "2": "2-0"
+                },
+                "Partita 4": {
+                    "1": "1-1",
+                    "2": "0-2"
+                },
+                "Partita 5": {
+                    "1": "1-0",
+                    "2": "1-2"
+                }
+            }
+        },
+        "OSPITE": {
+            "GFC": 9,
+            "GSC": 20,
+            "PG": 13,
+            "GFF5": 0,
+            "GSF5": 9,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "0-0",
+                    "2": "1-0"
+                },
+                "Partita 2": {
+                    "1": "2-0",
+                    "2": "1-0"
+                },
+                "Partita 3": {
+                    "1": "1-0",
+                    "2": "0-0"
+                },
+                "Partita 4": {
+                    "1": "0-0",
+                    "2": "0-0"
+                },
+                "Partita 5": {
+                    "1": "2-0",
+                    "2": "2-0"
+                }
+            }
+        },
+        "ODDS": {
+            "OVER 2.5": "1.7",
+            "UNDER 2.5": "2.1"
+        }
+    },
+    "Barnet - York": {
+        "CAMPIONATO": "INGHILTERRA: National League",
+        "MATCH_CODE": "djpyvblA",
+        "MATCH_TIME": "202502182045",
+        "CASA": {
+            "GFC": 40,
+            "GSC": 11,
+            "PG": 16,
+            "GFF5": 12,
+            "GSF5": 5,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "1-0",
+                    "2": "2-1"
+                },
+                "Partita 2": {
+                    "1": "0-0",
+                    "2": "2-0"
+                },
+                "Partita 3": {
+                    "1": "1-0",
+                    "2": "2-0"
+                },
+                "Partita 4": {
+                    "1": "2-1",
+                    "2": "1-2"
+                },
+                "Partita 5": {
+                    "1": "1-1",
+                    "2": "0-0"
+                }
+            }
+        },
+        "OSPITE": {
+            "GFC": 19,
+            "GSC": 14,
+            "PG": 14,
+            "GFF5": 6,
+            "GSF5": 7,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "0-0",
+                    "2": "0-2"
+                },
+                "Partita 2": {
+                    "1": "1-1",
+                    "2": "2-0"
+                },
+                "Partita 3": {
+                    "1": "0-2",
+                    "2": "0-0"
+                },
+                "Partita 4": {
+                    "1": "0-1",
+                    "2": "1-0"
+                },
+                "Partita 5": {
+                    "1": "3-0",
+                    "2": "0-0"
+                }
+            }
+        },
+        "ODDS": {
+            "OVER 2.5": "2",
+            "UNDER 2.5": "1.8"
+        }
+    },
+    "Ebbsfleet - Forest Green": {
+        "CAMPIONATO": "INGHILTERRA: National League",
+        "MATCH_CODE": "dESNUgBd",
+        "MATCH_TIME": "202502182045",
+        "CASA": {
+            "GFC": 9,
+            "GSC": 29,
+            "PG": 16,
+            "GFF5": 2,
+            "GSF5": 10,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "0-0",
+                    "2": "0-2"
+                },
+                "Partita 2": {
+                    "1": "0-1",
+                    "2": "0-0"
+                },
+                "Partita 3": {
+                    "1": "0-1",
+                    "2": "1-0"
+                },
+                "Partita 4": {
+                    "1": "0-0",
+                    "2": "0-2"
+                },
+                "Partita 5": {
+                    "1": "0-2",
+                    "2": "1-2"
+                }
+            }
+        },
+        "OSPITE": {
+            "GFC": 26,
+            "GSC": 15,
+            "PG": 16,
+            "GFF5": 6,
+            "GSF5": 6,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "2-0",
+                    "2": "0-0"
+                },
+                "Partita 2": {
+                    "1": "0-1",
+                    "2": "0-1"
+                },
+                "Partita 3": {
+                    "1": "1-0",
+                    "2": "0-1"
+                },
+                "Partita 4": {
+                    "1": "0-1",
+                    "2": "1-0"
+                },
+                "Partita 5": {
+                    "1": "0-1",
+                    "2": "2-1"
+                }
+            }
+        },
+        "ODDS": {
+            "OVER 2.5": "1.75",
+            "UNDER 2.5": "2.05"
+        }
+    },
+    "Gateshead - Sutton": {
+        "CAMPIONATO": "INGHILTERRA: National League",
+        "MATCH_CODE": "rNzBjyYF",
+        "MATCH_TIME": "202502182045",
+        "CASA": {
+            "GFC": 28,
+            "GSC": 16,
+            "PG": 15,
+            "GFF5": 10,
+            "GSF5": 8,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "0-1",
+                    "2": "0-0"
+                },
+                "Partita 2": {
+                    "1": "0-1",
+                    "2": "1-0"
+                },
+                "Partita 3": {
+                    "1": "0-2",
+                    "2": "1-1"
+                },
+                "Partita 4": {
+                    "1": "2-1",
+                    "2": "2-2"
+                },
+                "Partita 5": {
+                    "1": "3-0",
+                    "2": "1-0"
+                }
+            }
+        },
+        "OSPITE": {
+            "GFC": 18,
+            "GSC": 18,
+            "PG": 14,
+            "GFF5": 5,
+            "GSF5": 5,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "0-0",
+                    "2": "0-0"
+                },
+                "Partita 2": {
+                    "1": "0-2",
+                    "2": "1-0"
+                },
+                "Partita 3": {
+                    "1": "2-1",
+                    "2": "1-2"
+                },
+                "Partita 4": {
+                    "1": "1-0",
+                    "2": "0-0"
+                },
+                "Partita 5": {
+                    "1": "0-0",
+                    "2": "0-0"
+                }
+            }
+        },
+        "ODDS": {
+            "OVER 2.5": "1.67",
+            "UNDER 2.5": "2.15"
+        }
+    },
+    "Hartlepool - Altrincham": {
+        "CAMPIONATO": "INGHILTERRA: National League",
+        "MATCH_CODE": "4xPJlF2S",
+        "MATCH_TIME": "202502182045",
+        "CASA": {
+            "GFC": 16,
+            "GSC": 13,
+            "PG": 16,
+            "GFF5": 7,
+            "GSF5": 5,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "0-0",
+                    "2": "0-0"
+                },
+                "Partita 2": {
+                    "1": "1-2",
+                    "2": "1-0"
+                },
+                "Partita 3": {
+                    "1": "0-0",
+                    "2": "1-1"
+                },
+                "Partita 4": {
+                    "1": "1-1",
+                    "2": "1-0"
+                },
+                "Partita 5": {
+                    "1": "0-0",
+                    "2": "2-1"
+                }
+            }
+        },
+        "OSPITE": {
+            "GFC": 23,
+            "GSC": 25,
+            "PG": 15,
+            "GFF5": 9,
+            "GSF5": 8,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "0-1",
+                    "2": "0-0"
+                },
+                "Partita 2": {
+                    "1": "0-1",
+                    "2": "2-1"
+                },
+                "Partita 3": {
+                    "1": "1-1",
+                    "2": "0-1"
+                },
+                "Partita 4": {
+                    "1": "0-0",
+                    "2": "2-1"
+                },
+                "Partita 5": {
+                    "1": "2-2",
+                    "2": "1-1"
+                }
+            }
+        },
+        "ODDS": {
+            "OVER 2.5": "1.8",
+            "UNDER 2.5": "2"
+        }
+    },
+    "Oldham - Maidenhead": {
+        "CAMPIONATO": "INGHILTERRA: National League",
+        "MATCH_CODE": "zLFkqgQk",
+        "MATCH_TIME": "202502182045",
+        "CASA": {
+            "GFC": 25,
+            "GSC": 15,
+            "PG": 15,
+            "GFF5": 6,
+            "GSF5": 9,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "0-0",
+                    "2": "0-0"
+                },
+                "Partita 2": {
+                    "1": "0-1",
+                    "2": "2-1"
+                },
+                "Partita 3": {
+                    "1": "0-2",
+                    "2": "0-0"
+                },
+                "Partita 4": {
+                    "1": "1-2",
+                    "2": "0-1"
+                },
+                "Partita 5": {
+                    "1": "1-2",
+                    "2": "2-0"
+                }
+            }
+        },
+        "OSPITE": {
+            "GFC": 17,
+            "GSC": 35,
+            "PG": 16,
+            "GFF5": 1,
+            "GSF5": 11,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "0-0",
+                    "2": "0-0"
+                },
+                "Partita 2": {
+                    "1": "1-0",
+                    "2": "2-0"
+                },
+                "Partita 3": {
+                    "1": "4-0",
+                    "2": "0-0"
+                },
+                "Partita 4": {
+                    "1": "1-1",
+                    "2": "2-0"
+                },
+                "Partita 5": {
+                    "1": "1-0",
+                    "2": "0-0"
+                }
+            }
+        },
+        "ODDS": {
+            "OVER 2.5": "1.8",
+            "UNDER 2.5": "2"
+        }
+    },
+    "Southend - Aldershot": {
+        "CAMPIONATO": "INGHILTERRA: National League",
+        "MATCH_CODE": "GUNcsXf2",
+        "MATCH_TIME": "202502182045",
+        "CASA": {
+            "GFC": 23,
+            "GSC": 19,
+            "PG": 16,
+            "GFF5": 10,
+            "GSF5": 5,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "0-1",
+                    "2": "1-0"
+                },
+                "Partita 2": {
+                    "1": "0-0",
+                    "2": "3-1"
+                },
+                "Partita 3": {
+                    "1": "1-0",
+                    "2": "1-0"
+                },
+                "Partita 4": {
+                    "1": "0-2",
+                    "2": "0-1"
+                },
+                "Partita 5": {
+                    "1": "2-0",
+                    "2": "2-0"
+                }
+            }
+        },
+        "OSPITE": {
+            "GFC": 18,
+            "GSC": 26,
+            "PG": 15,
+            "GFF5": 6,
+            "GSF5": 7,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "2-0",
+                    "2": "0-0"
+                },
+                "Partita 2": {
+                    "1": "1-2",
+                    "2": "0-1"
+                },
+                "Partita 3": {
+                    "1": "1-0",
+                    "2": "0-1"
+                },
+                "Partita 4": {
+                    "1": "0-1",
+                    "2": "1-0"
+                },
+                "Partita 5": {
+                    "1": "1-0",
+                    "2": "1-1"
+                }
+            }
+        },
+        "ODDS": {
+            "OVER 2.5": "1.85",
+            "UNDER 2.5": "1.95"
+        }
+    },
+    "Yeovil - Tamworth": {
+        "CAMPIONATO": "INGHILTERRA: National League",
+        "MATCH_CODE": "4j4h3EHL",
+        "MATCH_TIME": "202502182045",
+        "CASA": {
+            "GFC": 16,
+            "GSC": 16,
+            "PG": 15,
+            "GFF5": 7,
+            "GSF5": 6,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "1-1",
+                    "2": "0-1"
+                },
+                "Partita 2": {
+                    "1": "0-0",
+                    "2": "0-0"
+                },
+                "Partita 3": {
+                    "1": "1-0",
+                    "2": "0-1"
+                },
+                "Partita 4": {
+                    "1": "0-0",
+                    "2": "2-2"
+                },
+                "Partita 5": {
+                    "1": "1-1",
+                    "2": "2-0"
+                }
+            }
+        },
+        "OSPITE": {
+            "GFC": 14,
+            "GSC": 32,
+            "PG": 16,
+            "GFF5": 6,
+            "GSF5": 7,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "0-0",
+                    "2": "1-1"
+                },
+                "Partita 2": {
+                    "1": "1-2",
+                    "2": "1-0"
+                },
+                "Partita 3": {
+                    "1": "0-0",
+                    "2": "0-1"
+                },
+                "Partita 4": {
+                    "1": "0-0",
+                    "2": "2-2"
+                },
+                "Partita 5": {
+                    "1": "1-0",
+                    "2": "1-0"
+                }
+            }
+        },
+        "ODDS": {
+            "OVER 2.5": "2.15",
+            "UNDER 2.5": "1.67"
+        }
+    },
+    "Farsley - Southport": {
+        "CAMPIONATO": "INGHILTERRA: National League Nord",
+        "MATCH_CODE": "jPBFUIEk",
+        "MATCH_TIME": "202502182045",
+        "CASA": {
+            "GFC": 9,
+            "GSC": 29,
+            "PG": 13,
+            "GFF5": 3,
+            "GSF5": 16,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "1-2",
+                    "2": "0-4"
+                },
+                "Partita 2": {
+                    "1": "0-3",
+                    "2": "1-1"
+                },
+                "Partita 3": {},
+                "Partita 4": {},
+                "Partita 5": {
+                    "1": "0-2",
+                    "2": "0-3"
+                }
+            }
+        },
+        "OSPITE": {
+            "GFC": 11,
+            "GSC": 26,
+            "PG": 15,
+            "GFF5": 5,
+            "GSF5": 7,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "2-0",
+                    "2": "2-1"
+                },
+                "Partita 2": {
+                    "1": "0-1",
+                    "2": "0-1"
+                },
+                "Partita 3": {
+                    "1": "1-0",
+                    "2": "1-1"
+                },
+                "Partita 4": {
+                    "1": "0-0",
+                    "2": "1-1"
+                },
+                "Partita 5": {
+                    "1": "0-0",
+                    "2": "0-0"
+                }
+            }
+        },
+        "ODDS": {
+            "OVER 2.5": "1.67",
+            "UNDER 2.5": "2.15"
+        }
+    },
+    "Hereford - Warrington": {
+        "CAMPIONATO": "INGHILTERRA: National League Nord",
+        "MATCH_CODE": "Chu0uWYp",
+        "MATCH_TIME": "202502182045",
+        "CASA": {
+            "GFC": 23,
+            "GSC": 15,
+            "PG": 15,
+            "GFF5": 5,
+            "GSF5": 8,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "0-2",
+                    "2": "0-0"
+                },
+                "Partita 2": {
+                    "1": "0-1",
+                    "2": "3-1"
+                },
+                "Partita 3": {
+                    "1": "0-0",
+                    "2": "1-1"
+                },
+                "Partita 4": {
+                    "1": "0-1",
+                    "2": "0-2"
+                },
+                "Partita 5": {
+                    "1": "1-0",
+                    "2": "0-0"
+                }
+            }
+        },
+        "OSPITE": {
+            "GFC": 11,
+            "GSC": 22,
+            "PG": 15,
+            "GFF5": 1,
+            "GSF5": 8,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "1-0",
+                    "2": "1-0"
+                },
+                "Partita 2": {
+                    "1": "1-0",
+                    "2": "1-1"
+                },
+                "Partita 3": {},
+                "Partita 4": {
+                    "1": "0-0",
+                    "2": "2-0"
+                },
+                "Partita 5": {
+                    "1": "0-0",
+                    "2": "2-0"
+                }
+            }
+        },
+        "ODDS": {
+            "OVER 2.5": "1.83",
+            "UNDER 2.5": "1.98"
+        }
+    },
+    "King’s Lynn - Oxford City": {
+        "CAMPIONATO": "INGHILTERRA: National League Nord",
+        "MATCH_CODE": "xnav3ZQi",
+        "MATCH_TIME": "202502182045",
+        "CASA": {
+            "GFC": 22,
+            "GSC": 15,
+            "PG": 16,
+            "GFF5": 6,
+            "GSF5": 6,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "0-1",
+                    "2": "0-1"
+                },
+                "Partita 2": {
+                    "1": "1-1",
+                    "2": "0-0"
+                },
+                "Partita 3": {
+                    "1": "1-0",
+                    "2": "2-1"
+                },
+                "Partita 4": {
+                    "1": "1-0",
+                    "2": "1-2"
+                },
+                "Partita 5": {
+                    "1": "0-0",
+                    "2": "0-0"
+                }
+            }
+        },
+        "OSPITE": {
+            "GFC": 17,
+            "GSC": 26,
+            "PG": 15,
+            "GFF5": 4,
+            "GSF5": 8,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "2-0",
+                    "2": "2-0"
+                },
+                "Partita 2": {
+                    "1": "0-1",
+                    "2": "2-0"
+                },
+                "Partita 3": {
+                    "1": "0-0",
+                    "2": "0-0"
+                },
+                "Partita 4": {
+                    "1": "1-0",
+                    "2": "0-2"
+                },
+                "Partita 5": {
+                    "1": "1-1",
+                    "2": "0-0"
+                }
+            }
+        },
+        "ODDS": {
+            "OVER 2.5": "2.5",
+            "UNDER 2.5": "1.5"
+        }
+    },
+    "Leamington - Buxton": {
+        "CAMPIONATO": "INGHILTERRA: National League Nord",
+        "MATCH_CODE": "8z10Y243",
+        "MATCH_TIME": "202502182045",
+        "CASA": {
+            "GFC": 31,
+            "GSC": 19,
+            "PG": 16,
+            "GFF5": 8,
+            "GSF5": 7,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "2-0",
+                    "2": "1-0"
+                },
+                "Partita 2": {
+                    "1": "1-0",
+                    "2": "1-0"
+                },
+                "Partita 3": {
+                    "1": "0-1",
+                    "2": "0-1"
+                },
+                "Partita 4": {
+                    "1": "2-1",
+                    "2": "0-0"
+                },
+                "Partita 5": {
+                    "1": "0-4",
+                    "2": "1-0"
+                }
+            }
+        },
+        "OSPITE": {
+            "GFC": 23,
+            "GSC": 19,
+            "PG": 15,
+            "GFF5": 10,
+            "GSF5": 6,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "0-3",
+                    "2": "1-2"
+                },
+                "Partita 2": {
+                    "1": "1-0",
+                    "2": "2-0"
+                },
+                "Partita 3": {
+                    "1": "0-1",
+                    "2": "0-0"
+                },
+                "Partita 4": {
+                    "1": "1-1",
+                    "2": "0-3"
+                },
+                "Partita 5": {
+                    "1": "0-0",
+                    "2": "1-0"
+                }
+            }
+        },
+        "ODDS": {
+            "OVER 2.5": "2.08",
+            "UNDER 2.5": "1.73"
+        }
+    },
+    "Marine - Kidderminster": {
+        "CAMPIONATO": "INGHILTERRA: National League Nord",
+        "MATCH_CODE": "pC2n1De4",
+        "MATCH_TIME": "202502182045",
+        "CASA": {
+            "GFC": 17,
+            "GSC": 22,
+            "PG": 16,
+            "GFF5": 8,
+            "GSF5": 12,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "1-1",
+                    "2": "0-1"
+                },
+                "Partita 2": {
+                    "1": "0-0",
+                    "2": "3-1"
+                },
+                "Partita 3": {
+                    "1": "1-1",
+                    "2": "0-3"
+                },
+                "Partita 4": {
+                    "1": "0-2",
+                    "2": "2-1"
+                },
+                "Partita 5": {
+                    "1": "1-0",
+                    "2": "0-2"
+                }
+            }
+        },
+        "OSPITE": {
+            "GFC": 24,
+            "GSC": 16,
+            "PG": 15,
+            "GFF5": 10,
+            "GSF5": 4,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "0-1",
+                    "2": "0-1"
+                },
+                "Partita 2": {
+                    "1": "1-1",
+                    "2": "0-0"
+                },
+                "Partita 3": {
+                    "1": "0-1",
+                    "2": "1-0"
+                },
+                "Partita 4": {
+                    "1": "2-2",
+                    "2": "0-1"
+                },
+                "Partita 5": {
+                    "1": "0-1",
+                    "2": "0-2"
+                }
+            }
+        },
+        "ODDS": {
+            "OVER 2.5": "2.25",
+            "UNDER 2.5": "1.62"
+        }
+    },
+    "Radcliffe - Chorley": {
+        "CAMPIONATO": "INGHILTERRA: National League Nord",
+        "MATCH_CODE": "Yo8BXSIG",
+        "MATCH_TIME": "202502182045",
+        "CASA": {
+            "GFC": 25,
+            "GSC": 33,
+            "PG": 15,
+            "GFF5": 10,
+            "GSF5": 10,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "2-0",
+                    "2": "2-1"
+                },
+                "Partita 2": {
+                    "1": "0-1",
+                    "2": "0-2"
+                },
+                "Partita 3": {
+                    "1": "2-1",
+                    "2": "1-1"
+                },
+                "Partita 4": {},
+                "Partita 5": {
+                    "1": "0-2",
+                    "2": "0-2"
+                }
+            }
+        },
+        "OSPITE": {
+            "GFC": 18,
+            "GSC": 17,
+            "PG": 14,
+            "GFF5": 6,
+            "GSF5": 4,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "1-1",
+                    "2": "0-1"
+                },
+                "Partita 2": {
+                    "1": "1-1",
+                    "2": "1-2"
+                },
+                "Partita 3": {
+                    "1": "0-0",
+                    "2": "0-0"
+                },
+                "Partita 4": {
+                    "1": "1-0",
+                    "2": "0-0"
+                },
+                "Partita 5": {
+                    "1": "0-0",
+                    "2": "0-1"
+                }
+            }
+        },
+        "ODDS": {
+            "OVER 2.5": "1.85",
+            "UNDER 2.5": "1.95"
+        }
+    },
+    "Spennymoor - Alfreton": {
+        "CAMPIONATO": "INGHILTERRA: National League Nord",
+        "MATCH_CODE": "KUGUDjuA",
+        "MATCH_TIME": "202502182045",
+        "CASA": {
+            "GFC": 24,
+            "GSC": 12,
+            "PG": 13,
+            "GFF5": 11,
+            "GSF5": 3,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "1-0",
+                    "2": "6-0"
+                },
+                "Partita 2": {
+                    "1": "1-1",
+                    "2": "0-0"
+                },
+                "Partita 3": {
+                    "1": "0-1",
+                    "2": "2-0"
+                },
+                "Partita 4": {
+                    "1": "1-1",
+                    "2": "0-0"
+                },
+                "Partita 5": {
+                    "1": "0-0",
+                    "2": "0-0"
+                }
+            }
+        },
+        "OSPITE": {
+            "GFC": 21,
+            "GSC": 16,
+            "PG": 15,
+            "GFF5": 8,
+            "GSF5": 6,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "0-1",
+                    "2": "0-1"
+                },
+                "Partita 2": {
+                    "1": "0-3",
+                    "2": "1-1"
+                },
+                "Partita 3": {
+                    "1": "0-0",
+                    "2": "2-0"
+                },
+                "Partita 4": {
+                    "1": "3-2",
+                    "2": "0-0"
+                },
+                "Partita 5": {
+                    "1": "0-0",
+                    "2": "0-0"
+                }
+            }
+        },
+        "ODDS": {
+            "OVER 2.5": "2",
+            "UNDER 2.5": "1.8"
+        }
+    },
+    "Chesham - Salisbury": {
+        "CAMPIONATO": "INGHILTERRA: National League Sud",
+        "MATCH_CODE": "voKpM6vp",
+        "MATCH_TIME": "202502182045",
+        "CASA": {
+            "GFC": 24,
+            "GSC": 26,
+            "PG": 16,
+            "GFF5": 9,
+            "GSF5": 6,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "0-2",
+                    "2": "1-1"
+                },
+                "Partita 2": {
+                    "1": "2-1",
+                    "2": "1-0"
+                },
+                "Partita 3": {
+                    "1": "1-1",
+                    "2": "1-1"
+                },
+                "Partita 4": {
+                    "1": "0-0",
+                    "2": "2-0"
+                },
+                "Partita 5": {
+                    "1": "1-0",
+                    "2": "0-0"
+                }
+            }
+        },
+        "OSPITE": {
+            "GFC": 17,
+            "GSC": 20,
+            "PG": 14,
+            "GFF5": 5,
+            "GSF5": 3,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "0-1",
+                    "2": "1-1"
+                },
+                "Partita 2": {
+                    "1": "0-1",
+                    "2": "1-0"
+                },
+                "Partita 3": {
+                    "1": "0-0",
+                    "2": "0-1"
+                },
+                "Partita 4": {
+                    "1": "0-0",
+                    "2": "0-0"
+                },
+                "Partita 5": {
+                    "1": "0-1",
+                    "2": "1-0"
+                }
+            }
+        },
+        "ODDS": {
+            "OVER 2.5": "0",
+            "UNDER 2.5": "0"
+        }
+    },
+    "Enfield Town - Eastbourne Boro": {
+        "CAMPIONATO": "INGHILTERRA: National League Sud",
+        "MATCH_CODE": "ENbmtSVF",
+        "MATCH_TIME": "202502182045",
+        "CASA": {
+            "GFC": 17,
+            "GSC": 29,
+            "PG": 15,
+            "GFF5": 6,
+            "GSF5": 4,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "1-0",
+                    "2": "1-0"
+                },
+                "Partita 2": {
+                    "1": "1-0",
+                    "2": "0-0"
+                },
+                "Partita 3": {
+                    "1": "0-1",
+                    "2": "1-0"
+                },
+                "Partita 4": {
+                    "1": "0-0",
+                    "2": "2-1"
+                },
+                "Partita 5": {
+                    "1": "0-2",
+                    "2": "0-0"
+                }
+            }
+        },
+        "OSPITE": {
+            "GFC": 16,
+            "GSC": 22,
+            "PG": 17,
+            "GFF5": 2,
+            "GSF5": 5,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "0-0",
+                    "2": "3-0"
+                },
+                "Partita 2": {
+                    "1": "0-0",
+                    "2": "2-0"
+                },
+                "Partita 3": {
+                    "1": "0-0",
+                    "2": "0-0"
+                },
+                "Partita 4": {
+                    "1": "0-1",
+                    "2": "0-1"
+                },
+                "Partita 5": {
+                    "1": "0-0",
+                    "2": "0-0"
+                }
+            }
+        },
+        "ODDS": {
+            "OVER 2.5": "0",
+            "UNDER 2.5": "0"
+        }
+    },
+    "Ilkeston - Stockton": {
+        "CAMPIONATO": "INGHILTERRA: NPL Premier Division",
+        "MATCH_CODE": "r99ltkdC",
+        "MATCH_TIME": "202502182045",
+        "CASA": {
+            "GFC": 35,
+            "GSC": 15,
+            "PG": 15,
+            "GFF5": 11,
+            "GSF5": 4,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "0-0",
+                    "2": "1-0"
+                },
+                "Partita 2": {
+                    "1": "2-0",
+                    "2": "2-2"
+                },
+                "Partita 3": {
+                    "1": "0-2",
+                    "2": "0-0"
+                },
+                "Partita 4": {
+                    "1": "3-0",
+                    "2": "2-0"
+                },
+                "Partita 5": {
+                    "1": "0-0",
+                    "2": "1-0"
+                }
+            }
+        },
+        "OSPITE": {
+            "GFC": 24,
+            "GSC": 22,
+            "PG": 15,
+            "GFF5": 7,
+            "GSF5": 3,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "1-0",
+                    "2": "0-0"
+                },
+                "Partita 2": {
+                    "1": "0-0",
+                    "2": "0-1"
+                },
+                "Partita 3": {
+                    "1": "1-1",
+                    "2": "0-2"
+                },
+                "Partita 4": {
+                    "1": "0-0",
+                    "2": "0-2"
+                },
+                "Partita 5": {
+                    "1": "1-0",
+                    "2": "0-1"
+                }
+            }
+        },
+        "ODDS": {
+            "OVER 2.5": "0",
+            "UNDER 2.5": "0"
+        }
+    },
+    "Matlock - Ashton Utd": {
+        "CAMPIONATO": "INGHILTERRA: NPL Premier Division",
+        "MATCH_CODE": "p4GR1iaT",
+        "MATCH_TIME": "202502182045",
+        "CASA": {
+            "GFC": 23,
+            "GSC": 22,
+            "PG": 14,
+            "GFF5": 10,
+            "GSF5": 3,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "0-0",
+                    "2": "0-0"
+                },
+                "Partita 2": {
+                    "1": "2-1",
+                    "2": "0-1"
+                },
+                "Partita 3": {
+                    "1": "1-0",
+                    "2": "1-1"
+                },
+                "Partita 4": {
+                    "1": "2-0",
+                    "2": "2-0"
+                },
+                "Partita 5": {
+                    "1": "1-0",
+                    "2": "1-0"
+                }
+            }
+        },
+        "OSPITE": {
+            "GFC": 26,
+            "GSC": 17,
+            "PG": 14,
+            "GFF5": 10,
+            "GSF5": 5,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "0-0",
+                    "2": "2-0"
+                },
+                "Partita 2": {
+                    "1": "0-2",
+                    "2": "1-1"
+                },
+                "Partita 3": {
+                    "1": "0-0",
+                    "2": "1-0"
+                },
+                "Partita 4": {
+                    "1": "0-1",
+                    "2": "0-2"
+                },
+                "Partita 5": {
+                    "1": "0-1",
+                    "2": "1-3"
+                }
+            }
+        },
+        "ODDS": {
+            "OVER 2.5": "0",
+            "UNDER 2.5": "0"
+        }
+    },
+    "Prescot - Bamber Bridge": {
+        "CAMPIONATO": "INGHILTERRA: NPL Premier Division",
+        "MATCH_CODE": "6NMOHTVp",
+        "MATCH_TIME": "202502182045",
+        "CASA": {
+            "GFC": 19,
+            "GSC": 15,
+            "PG": 15,
+            "GFF5": 7,
+            "GSF5": 4,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "0-0",
+                    "2": "2-0"
+                },
+                "Partita 2": {
+                    "1": "0-0",
+                    "2": "0-2"
+                },
+                "Partita 3": {
+                    "1": "2-0",
+                    "2": "0-0"
+                },
+                "Partita 4": {
+                    "1": "0-0",
+                    "2": "1-0"
+                },
+                "Partita 5": {
+                    "1": "1-0",
+                    "2": "1-2"
+                }
+            }
+        },
+        "OSPITE": {
+            "GFC": 20,
+            "GSC": 26,
+            "PG": 14,
+            "GFF5": 7,
+            "GSF5": 9,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "2-1",
+                    "2": "1-1"
+                },
+                "Partita 2": {
+                    "1": "0-0",
+                    "2": "0-1"
+                },
+                "Partita 3": {
+                    "1": "0-1",
+                    "2": "2-1"
+                },
+                "Partita 4": {
+                    "1": "1-1",
+                    "2": "2-0"
+                },
+                "Partita 5": {
+                    "1": "1-1",
+                    "2": "0-0"
+                }
+            }
+        },
+        "ODDS": {
+            "OVER 2.5": "0",
+            "UNDER 2.5": "0"
+        }
+    },
+    "Warrington Rylands - Leek": {
+        "CAMPIONATO": "INGHILTERRA: NPL Premier Division",
+        "MATCH_CODE": "drppKYEc",
+        "MATCH_TIME": "202502182045",
+        "CASA": {
+            "GFC": 22,
+            "GSC": 23,
+            "PG": 15,
+            "GFF5": 9,
+            "GSF5": 7,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "1-1",
+                    "2": "0-2"
+                },
+                "Partita 2": {
+                    "1": "1-0",
+                    "2": "1-1"
+                },
+                "Partita 3": {
+                    "1": "2-2",
+                    "2": "0-0"
+                },
+                "Partita 4": {
+                    "1": "2-0",
+                    "2": "0-0"
+                },
+                "Partita 5": {
+                    "1": "1-0",
+                    "2": "1-1"
+                }
+            }
+        },
+        "OSPITE": {
+            "GFC": 12,
+            "GSC": 14,
+            "PG": 15,
+            "GFF5": 5,
+            "GSF5": 5,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "1-0",
+                    "2": "0-1"
+                },
+                "Partita 2": {
+                    "1": "0-0",
+                    "2": "1-0"
+                },
+                "Partita 3": {
+                    "1": "0-2",
+                    "2": "0-0"
+                },
+                "Partita 4": {
+                    "1": "1-1",
+                    "2": "0-1"
+                },
+                "Partita 5": {
+                    "1": "1-0",
+                    "2": "1-0"
+                }
+            }
+        },
+        "ODDS": {
+            "OVER 2.5": "0",
+            "UNDER 2.5": "0"
+        }
+    },
+    "Whitby - Hebburn Town": {
+        "CAMPIONATO": "INGHILTERRA: NPL Premier Division",
+        "MATCH_CODE": "2umhICqA",
+        "MATCH_TIME": "202502182045",
+        "CASA": {
+            "GFC": 15,
+            "GSC": 20,
+            "PG": 15,
+            "GFF5": 4,
+            "GSF5": 7,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "0-1",
+                    "2": "0-1"
+                },
+                "Partita 2": {
+                    "1": "0-1",
+                    "2": "1-2"
+                },
+                "Partita 3": {
+                    "1": "0-0",
+                    "2": "0-2"
+                },
+                "Partita 4": {
+                    "1": "0-0",
+                    "2": "0-0"
+                },
+                "Partita 5": {
+                    "1": "2-0",
+                    "2": "1-0"
+                }
+            }
+        },
+        "OSPITE": {
+            "GFC": 21,
+            "GSC": 22,
+            "PG": 15,
+            "GFF5": 6,
+            "GSF5": 7,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "0-0",
+                    "2": "0-0"
+                },
+                "Partita 2": {
+                    "1": "1-2",
+                    "2": "1-0"
+                },
+                "Partita 3": {
+                    "1": "2-2",
+                    "2": "0-0"
+                },
+                "Partita 4": {
+                    "1": "1-0",
+                    "2": "0-1"
+                },
+                "Partita 5": {
+                    "1": "1-1",
+                    "2": "1-0"
+                }
+            }
+        },
+        "ODDS": {
+            "OVER 2.5": "0",
+            "UNDER 2.5": "0"
+        }
+    },
+    "Banbury - Alvechurch": {
+        "CAMPIONATO": "INGHILTERRA: Southern League Premier Central",
+        "MATCH_CODE": "jZjZuEiJ",
+        "MATCH_TIME": "202502182045",
+        "CASA": {
+            "GFC": 11,
+            "GSC": 11,
+            "PG": 15,
+            "GFF5": 4,
+            "GSF5": 3,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "0-2",
+                    "2": "0-0"
+                },
+                "Partita 2": {
+                    "1": "1-0",
+                    "2": "0-0"
+                },
+                "Partita 3": {
+                    "1": "1-1",
+                    "2": "1-0"
+                },
+                "Partita 4": {
+                    "1": "0-0",
+                    "2": "0-0"
+                },
+                "Partita 5": {
+                    "1": "0-0",
+                    "2": "1-0"
+                }
+            }
+        },
+        "OSPITE": {
+            "GFC": 21,
+            "GSC": 16,
+            "PG": 14,
+            "GFF5": 9,
+            "GSF5": 5,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "2-0",
+                    "2": "0-2"
+                },
+                "Partita 2": {
+                    "1": "2-1",
+                    "2": "0-0"
+                },
+                "Partita 3": {
+                    "1": "0-2",
+                    "2": "0-2"
+                },
+                "Partita 4": {
+                    "1": "0-0",
+                    "2": "1-1"
+                },
+                "Partita 5": {
+                    "1": "0-1",
+                    "2": "0-0"
+                }
+            }
+        },
+        "ODDS": {
+            "OVER 2.5": "0",
+            "UNDER 2.5": "0"
+        }
+    },
+    "Biggleswade Town - Sudbury": {
+        "CAMPIONATO": "INGHILTERRA: Southern League Premier Central",
+        "MATCH_CODE": "SzUfneDa",
+        "MATCH_TIME": "202502182045",
+        "CASA": {
+            "GFC": 10,
+            "GSC": 22,
+            "PG": 12,
+            "GFF5": 5,
+            "GSF5": 12,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "0-1",
+                    "2": "1-3"
+                },
+                "Partita 2": {
+                    "1": "0-0",
+                    "2": "1-0"
+                },
+                "Partita 3": {
+                    "1": "0-0",
+                    "2": "1-1"
+                },
+                "Partita 4": {
+                    "1": "1-1",
+                    "2": "1-2"
+                },
+                "Partita 5": {
+                    "1": "0-2",
+                    "2": "0-2"
+                }
+            }
+        },
+        "OSPITE": {
+            "GFC": 15,
+            "GSC": 24,
+            "PG": 13,
+            "GFF5": 4,
+            "GSF5": 9,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "1-2",
+                    "2": "0-1"
+                },
+                "Partita 2": {
+                    "1": "0-0",
+                    "2": "1-0"
+                },
+                "Partita 3": {
+                    "1": "0-0",
+                    "2": "1-0"
+                },
+                "Partita 4": {
+                    "1": "2-0",
+                    "2": "1-0"
+                },
+                "Partita 5": {
+                    "1": "0-1",
+                    "2": "3-0"
+                }
+            }
+        },
+        "ODDS": {
+            "OVER 2.5": "0",
+            "UNDER 2.5": "0"
+        }
+    },
+    "Bishop's Stortford - Spalding United": {
+        "CAMPIONATO": "INGHILTERRA: Southern League Premier Central",
+        "MATCH_CODE": "dASKApE7",
+        "MATCH_TIME": "202502182045",
+        "CASA": {
+            "GFC": 23,
+            "GSC": 19,
+            "PG": 15,
+            "GFF5": 9,
+            "GSF5": 6,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "1-2",
+                    "2": "1-0"
+                },
+                "Partita 2": {
+                    "1": "1-0",
+                    "2": "3-0"
+                },
+                "Partita 3": {
+                    "1": "0-1",
+                    "2": "0-1"
+                },
+                "Partita 4": {
+                    "1": "0-2",
+                    "2": "1-0"
+                },
+                "Partita 5": {
+                    "1": "0-0",
+                    "2": "2-0"
+                }
+            }
+        },
+        "OSPITE": {
+            "GFC": 17,
+            "GSC": 24,
+            "PG": 14,
+            "GFF5": 9,
+            "GSF5": 6,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "2-0",
+                    "2": "0-1"
+                },
+                "Partita 2": {
+                    "1": "1-1",
+                    "2": "1-0"
+                },
+                "Partita 3": {
+                    "1": "0-2",
+                    "2": "1-3"
+                },
+                "Partita 4": {
+                    "1": "1-0",
+                    "2": "0-1"
+                },
+                "Partita 5": {
+                    "1": "0-0",
+                    "2": "0-1"
+                }
+            }
+        },
+        "ODDS": {
+            "OVER 2.5": "0",
+            "UNDER 2.5": "0"
+        }
+    },
+    "Wimborne - Poole": {
+        "CAMPIONATO": "INGHILTERRA: Southern League Premier South",
+        "MATCH_CODE": "jHeayxRO",
+        "MATCH_TIME": "202502182030",
+        "CASA": {
+            "GFC": 21,
+            "GSC": 20,
+            "PG": 15,
+            "GFF5": 7,
+            "GSF5": 7,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "0-1",
+                    "2": "1-0"
+                },
+                "Partita 2": {
+                    "1": "0-0",
+                    "2": "1-2"
+                },
+                "Partita 3": {
+                    "1": "0-1",
+                    "2": "1-1"
+                },
+                "Partita 4": {
+                    "1": "1-1",
+                    "2": "2-0"
+                },
+                "Partita 5": {
+                    "1": "0-0",
+                    "2": "1-1"
+                }
+            }
+        },
+        "OSPITE": {
+            "GFC": 15,
+            "GSC": 26,
+            "PG": 14,
+            "GFF5": 4,
+            "GSF5": 9,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "0-0",
+                    "2": "1-0"
+                },
+                "Partita 2": {
+                    "1": "1-1",
+                    "2": "1-0"
+                },
+                "Partita 3": {
+                    "1": "1-1",
+                    "2": "1-0"
+                },
+                "Partita 4": {
+                    "1": "1-1",
+                    "2": "1-1"
+                },
+                "Partita 5": {
+                    "1": "2-0",
+                    "2": "0-0"
+                }
+            }
+        },
+        "ODDS": {
+            "OVER 2.5": "0",
+            "UNDER 2.5": "0"
+        }
+    },
+    "AFC Totton - Havant & W": {
+        "CAMPIONATO": "INGHILTERRA: Southern League Premier South",
+        "MATCH_CODE": "8hALnBT8",
+        "MATCH_TIME": "202502182045",
+        "CASA": {
+            "GFC": 40,
+            "GSC": 12,
+            "PG": 15,
+            "GFF5": 15,
+            "GSF5": 5,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "3-1",
+                    "2": "3-0"
+                },
+                "Partita 2": {
+                    "1": "1-0",
+                    "2": "3-0"
+                },
+                "Partita 3": {
+                    "1": "0-0",
+                    "2": "1-1"
+                },
+                "Partita 4": {
+                    "1": "0-0",
+                    "2": "2-1"
+                },
+                "Partita 5": {
+                    "1": "1-1",
+                    "2": "1-1"
+                }
+            }
+        },
+        "OSPITE": {
+            "GFC": 19,
+            "GSC": 24,
+            "PG": 14,
+            "GFF5": 9,
+            "GSF5": 6,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "0-0",
+                    "2": "2-2"
+                },
+                "Partita 2": {
+                    "1": "0-0",
+                    "2": "1-2"
+                },
+                "Partita 3": {
+                    "1": "0-0",
+                    "2": "1-0"
+                },
+                "Partita 4": {
+                    "1": "2-1",
+                    "2": "0-0"
+                },
+                "Partita 5": {
+                    "1": "0-1",
+                    "2": "0-3"
+                }
+            }
+        },
+        "ODDS": {
+            "OVER 2.5": "0",
+            "UNDER 2.5": "0"
+        }
+    },
+    "Frome - Gosport": {
+        "CAMPIONATO": "INGHILTERRA: Southern League Premier South",
+        "MATCH_CODE": "0riAgJtg",
+        "MATCH_TIME": "202502182045",
+        "CASA": {
+            "GFC": 15,
+            "GSC": 18,
+            "PG": 12,
+            "GFF5": 8,
+            "GSF5": 4,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "0-1",
+                    "2": "0-2"
+                },
+                "Partita 2": {
+                    "1": "0-0",
+                    "2": "0-0"
+                },
+                "Partita 3": {
+                    "1": "2-0",
+                    "2": "3-0"
+                },
+                "Partita 4": {
+                    "1": "1-0",
+                    "2": "2-0"
+                },
+                "Partita 5": {
+                    "1": "0-0",
+                    "2": "0-1"
+                }
+            }
+        },
+        "OSPITE": {
+            "GFC": 17,
+            "GSC": 19,
+            "PG": 14,
+            "GFF5": 5,
+            "GSF5": 9,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "0-1",
+                    "2": "1-1"
+                },
+                "Partita 2": {
+                    "1": "0-0",
+                    "2": "0-0"
+                },
+                "Partita 3": {
+                    "1": "0-0",
+                    "2": "2-1"
+                },
+                "Partita 4": {
+                    "1": "2-0",
+                    "2": "1-1"
+                },
+                "Partita 5": {
+                    "1": "1-1",
+                    "2": "2-0"
+                }
+            }
+        },
+        "ODDS": {
+            "OVER 2.5": "0",
+            "UNDER 2.5": "0"
+        }
+    },
+    "Sholing - Walton & Hersham": {
+        "CAMPIONATO": "INGHILTERRA: Southern League Premier South",
+        "MATCH_CODE": "U3KlD4wq",
+        "MATCH_TIME": "202502182045",
+        "CASA": {
+            "GFC": 19,
+            "GSC": 20,
+            "PG": 14,
+            "GFF5": 9,
+            "GSF5": 7,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "1-0",
+                    "2": "2-0"
+                },
+                "Partita 2": {
+                    "1": "1-0",
+                    "2": "0-0"
+                },
+                "Partita 3": {
+                    "1": "1-3",
+                    "2": "2-2"
+                },
+                "Partita 4": {
+                    "1": "0-1",
+                    "2": "0-0"
+                },
+                "Partita 5": {
+                    "1": "0-0",
+                    "2": "2-1"
+                }
+            }
+        },
+        "OSPITE": {
+            "GFC": 23,
+            "GSC": 20,
+            "PG": 14,
+            "GFF5": 12,
+            "GSF5": 10,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "1-1",
+                    "2": "0-1"
+                },
+                "Partita 2": {
+                    "1": "2-2",
+                    "2": "0-1"
+                },
+                "Partita 3": {
+                    "1": "0-0",
+                    "2": "0-2"
+                },
+                "Partita 4": {
+                    "1": "2-1",
+                    "2": "3-1"
+                },
+                "Partita 5": {
+                    "1": "0-2",
+                    "2": "2-1"
+                }
+            }
+        },
+        "ODDS": {
+            "OVER 2.5": "0",
+            "UNDER 2.5": "0"
+        }
+    },
+    "Taunton - Winchester": {
+        "CAMPIONATO": "INGHILTERRA: Southern League Premier South",
+        "MATCH_CODE": "rwaUswkA",
+        "MATCH_TIME": "202502182045",
+        "CASA": {
+            "GFC": 31,
+            "GSC": 21,
+            "PG": 14,
+            "GFF5": 9,
+            "GSF5": 4,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "0-0",
+                    "2": "0-0"
+                },
+                "Partita 2": {
+                    "1": "1-0",
+                    "2": "1-0"
+                },
+                "Partita 3": {
+                    "1": "0-1",
+                    "2": "2-1"
+                },
+                "Partita 4": {
+                    "1": "2-0",
+                    "2": "1-1"
+                },
+                "Partita 5": {
+                    "1": "1-0",
+                    "2": "1-1"
+                }
+            }
+        },
+        "OSPITE": {
+            "GFC": 21,
+            "GSC": 27,
+            "PG": 15,
+            "GFF5": 5,
+            "GSF5": 13,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "3-0",
+                    "2": "2-0"
+                },
+                "Partita 2": {
+                    "1": "2-1",
+                    "2": "2-1"
+                },
+                "Partita 3": {
+                    "1": "1-0",
+                    "2": "1-0"
+                },
+                "Partita 4": {
+                    "1": "0-0",
+                    "2": "1-0"
+                },
+                "Partita 5": {
+                    "1": "0-2",
+                    "2": "1-1"
+                }
+            }
+        },
+        "ODDS": {
+            "OVER 2.5": "0",
+            "UNDER 2.5": "0"
+        }
+    },
+    "Birmingham - Bradford City": {
+        "CAMPIONATO": "INGHILTERRA: EFL Trophy - Play Off",
+        "MATCH_CODE": "8Qq38Zpd",
+        "MATCH_TIME": "202502182100",
+        "CASA": {},
+        "OSPITE": {},
+        "ODDS": {
+            "OVER 2.5": "1.65",
+            "UNDER 2.5": "2.2"
+        }
+    },
+    "Burnley U21 - Wigan U21": {
+        "CAMPIONATO": "INGHILTERRA: Professional Development League",
+        "MATCH_CODE": "EiQJ3uZo",
+        "MATCH_TIME": "202502182000",
+        "CASA": {
+            "GFC": 37,
+            "GSC": 11,
+            "PG": 10,
+            "GFF5": 22,
+            "GSF5": 2,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "3-0",
+                    "2": "2-0"
+                },
+                "Partita 2": {
+                    "1": "0-1",
+                    "2": "0-0"
+                },
+                "Partita 3": {
+                    "1": "2-0",
+                    "2": "2-0"
+                },
+                "Partita 4": {
+                    "1": "5-1",
+                    "2": "3-0"
+                },
+                "Partita 5": {
+                    "1": "1-0",
+                    "2": "4-0"
+                }
+            }
+        },
+        "OSPITE": {
+            "GFC": 11,
+            "GSC": 23,
+            "PG": 9,
+            "GFF5": 6,
+            "GSF5": 11,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "2-0",
+                    "2": "0-2"
+                },
+                "Partita 2": {
+                    "1": "1-1",
+                    "2": "0-2"
+                },
+                "Partita 3": {
+                    "1": "2-1",
+                    "2": "1-0"
+                },
+                "Partita 4": {
+                    "1": "1-0",
+                    "2": "2-0"
+                },
+                "Partita 5": {
+                    "1": "0-0",
+                    "2": "2-0"
+                }
+            }
+        },
+        "ODDS": {
+            "OVER 2.5": "0",
+            "UNDER 2.5": "0"
+        }
+    },
+    "Manchester Utd U18 - Wolves U18": {
+        "CAMPIONATO": "INGHILTERRA: Premier League U18",
+        "MATCH_CODE": "EZrB98OO",
+        "MATCH_TIME": "202502182000",
+        "CASA": {
+            "GFC": 20,
+            "GSC": 4,
+            "PG": 6,
+            "GFF5": 18,
+            "GSF5": 4,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "0-0",
+                    "2": "0-0"
+                },
+                "Partita 2": {
+                    "1": "0-1",
+                    "2": "0-3"
+                },
+                "Partita 3": {
+                    "1": "1-0",
+                    "2": "2-0"
+                },
+                "Partita 4": {
+                    "1": "5-0",
+                    "2": "1-0"
+                },
+                "Partita 5": {
+                    "1": "5-0",
+                    "2": "4-0"
+                }
+            }
+        },
+        "OSPITE": {
+            "GFC": 12,
+            "GSC": 16,
+            "PG": 7,
+            "GFF5": 8,
+            "GSF5": 14,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "3-1",
+                    "2": "2-0"
+                },
+                "Partita 2": {
+                    "1": "0-1",
+                    "2": "2-0"
+                },
+                "Partita 3": {
+                    "1": "2-1",
+                    "2": "2-1"
+                },
+                "Partita 4": {
+                    "1": "0-0",
+                    "2": "2-0"
+                },
+                "Partita 5": {
+                    "1": "1-2",
+                    "2": "0-2"
+                }
+            }
+        },
+        "ODDS": {
+            "OVER 2.5": "0",
+            "UNDER 2.5": "0"
+        }
+    },
+    "Ballymena - Glentoran": {
+        "CAMPIONATO": "IRLANDA DEL NORD: NIFL Premiership",
+        "MATCH_CODE": "A7sQWdFd",
+        "MATCH_TIME": "202502182045",
+        "CASA": {
+            "GFC": 14,
+            "GSC": 18,
+            "PG": 12,
+            "GFF5": 3,
+            "GSF5": 10,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "1-1",
+                    "2": "1-1"
+                },
+                "Partita 2": {
+                    "1": "0-0",
+                    "2": "0-2"
+                },
+                "Partita 3": {
+                    "1": "0-0",
+                    "2": "0-1"
+                },
+                "Partita 4": {
+                    "1": "0-0",
+                    "2": "1-2"
+                },
+                "Partita 5": {
+                    "1": "0-0",
+                    "2": "0-3"
+                }
+            }
+        },
+        "OSPITE": {
+            "GFC": 25,
+            "GSC": 16,
+            "PG": 14,
+            "GFF5": 11,
+            "GSF5": 4,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "0-1",
+                    "2": "1-1"
+                },
+                "Partita 2": {
+                    "1": "1-0",
+                    "2": "0-2"
+                },
+                "Partita 3": {
+                    "1": "0-1",
+                    "2": "0-1"
+                },
+                "Partita 4": {
+                    "1": "1-1",
+                    "2": "0-1"
+                },
+                "Partita 5": {
+                    "1": "1-0",
+                    "2": "0-3"
+                }
+            }
+        },
+        "ODDS": {
+            "OVER 2.5": "0",
+            "UNDER 2.5": "0"
+        }
+    },
+    "Larne - Glenavon": {
+        "CAMPIONATO": "IRLANDA DEL NORD: NIFL Premiership",
+        "MATCH_CODE": "GOSB0YY0",
+        "MATCH_TIME": "202502182045",
+        "CASA": {
+            "GFC": 13,
+            "GSC": 11,
+            "PG": 13,
+            "GFF5": 5,
+            "GSF5": 3,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "0-1",
+                    "2": "0-0"
+                },
+                "Partita 2": {
+                    "1": "0-0",
+                    "2": "1-1"
+                },
+                "Partita 3": {
+                    "1": "2-1",
+                    "2": "0-0"
+                },
+                "Partita 4": {
+                    "1": "0-0",
+                    "2": "2-0"
+                },
+                "Partita 5": {
+                    "1": "0-0",
+                    "2": "0-0"
+                }
+            }
+        },
+        "OSPITE": {
+            "GFC": 9,
+            "GSC": 14,
+            "PG": 12,
+            "GFF5": 5,
+            "GSF5": 6,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "0-2",
+                    "2": "2-1"
+                },
+                "Partita 2": {
+                    "1": "0-0",
+                    "2": "0-2"
+                },
+                "Partita 3": {
+                    "1": "1-0",
+                    "2": "0-0"
+                },
+                "Partita 4": {
+                    "1": "1-0",
+                    "2": "0-0"
+                },
+                "Partita 5": {
+                    "1": "1-0",
+                    "2": "1-0"
+                }
+            }
+        },
+        "ODDS": {
+            "OVER 2.5": "0",
+            "UNDER 2.5": "0"
+        }
+    },
+    "Ballinamallard - Newington": {
+        "CAMPIONATO": "IRLANDA DEL NORD: NIFL Championship",
+        "MATCH_CODE": "lCRxgwjd",
+        "MATCH_TIME": "202502182100",
+        "CASA": {
+            "GFC": 25,
+            "GSC": 19,
+            "PG": 12,
+            "GFF5": 8,
+            "GSF5": 9,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "1-1",
+                    "2": "2-0"
+                },
+                "Partita 2": {
+                    "1": "0-2",
+                    "2": "2-0"
+                },
+                "Partita 3": {
+                    "1": "1-1",
+                    "2": "1-0"
+                },
+                "Partita 4": {
+                    "1": "0-3",
+                    "2": "0-0"
+                },
+                "Partita 5": {
+                    "1": "0-2",
+                    "2": "1-0"
+                }
+            }
+        },
+        "OSPITE": {
+            "GFC": 9,
+            "GSC": 29,
+            "PG": 12,
+            "GFF5": 4,
+            "GSF5": 9,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "0-1",
+                    "2": "0-0"
+                },
+                "Partita 2": {
+                    "1": "1-0",
+                    "2": "0-1"
+                },
+                "Partita 3": {
+                    "1": "0-0",
+                    "2": "1-0"
+                },
+                "Partita 4": {
+                    "1": "2-0",
+                    "2": "2-1"
+                },
+                "Partita 5": {
+                    "1": "1-1",
+                    "2": "2-0"
+                }
+            }
+        },
+        "ODDS": {
+            "OVER 2.5": "0",
+            "UNDER 2.5": "0"
+        }
+    },
+    "Hapoel Bnei Zalfa - M. Kiryat Ata-Bialik": {
+        "CAMPIONATO": "ISRAELE: Liga Alef North",
+        "MATCH_CODE": "EiObNPUb",
+        "MATCH_TIME": "202502181930",
+        "CASA": {
+            "GFC": 14,
+            "GSC": 16,
+            "PG": 9,
+            "GFF5": 10,
+            "GSF5": 11,
+            "PARTITE": {
+                "Partita 1": {},
+                "Partita 2": {
+                    "1": "0-1",
+                    "2": "3-1"
+                },
+                "Partita 3": {
+                    "1": "0-0",
+                    "2": "2-0"
+                },
+                "Partita 4": {
+                    "1": "0-2",
+                    "2": "2-4"
+                },
+                "Partita 5": {
+                    "1": "0-0",
+                    "2": "0-2"
+                }
+            }
+        },
+        "OSPITE": {
+            "GFC": 11,
+            "GSC": 10,
+            "PG": 8,
+            "GFF5": 6,
+            "GSF5": 8,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "1-0",
+                    "2": "0-1"
+                },
+                "Partita 2": {
+                    "1": "1-0",
+                    "2": "0-1"
+                },
+                "Partita 3": {
+                    "1": "0-0",
+                    "2": "1-0"
+                },
+                "Partita 4": {
+                    "1": "0-3",
+                    "2": "2-1"
+                },
+                "Partita 5": {
+                    "1": "1-0",
+                    "2": "2-0"
+                }
+            }
+        },
+        "ODDS": {
+            "OVER 2.5": "0",
+            "UNDER 2.5": "0"
+        }
+    },
+    "Al Ahly Tripoli - Al Ittihad Misurata": {
+        "CAMPIONATO": "LIBIA: Premier League",
+        "MATCH_CODE": "EXmrww1N",
+        "MATCH_TIME": "202502181700",
+        "CASA": {
+            "GFC": 15,
+            "GSC": 0,
+            "PG": 5,
+            "GFF5": 15,
+            "GSF5": 0,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "2-0",
+                    "2": "1-0"
+                },
+                "Partita 2": {
+                    "1": "2-0",
+                    "2": "0-0"
+                },
+                "Partita 3": {
+                    "1": "1-0",
+                    "2": "2-0"
+                },
+                "Partita 4": {
+                    "1": "1-0",
+                    "2": "1-0"
+                },
+                "Partita 5": {
+                    "1": "2-0",
+                    "2": "3-0"
+                }
+            }
+        },
+        "OSPITE": {
+            "GFC": 3,
+            "GSC": 3,
+            "PG": 4,
+            "GFF5": 0,
+            "GSF5": 0,
+            "PARTITE": {}
+        },
+        "ODDS": {
+            "OVER 2.5": "0",
+            "UNDER 2.5": "0"
+        }
+    },
+    "Senegal U17 - Zambia U17": {
+        "CAMPIONATO": "MONDO: Amichevoli Nazionali",
+        "MATCH_CODE": "QyLx65G5",
+        "MATCH_TIME": "202502181700",
+        "CASA": {},
+        "OSPITE": {},
+        "ODDS": {
+            "OVER 2.5": "0",
+            "UNDER 2.5": "0"
+        }
+    },
+    "Lussemburgo U19 - Montenegro U19": {
+        "CAMPIONATO": "MONDO: Amichevoli Nazionali",
+        "MATCH_CODE": "0ldRVUjR",
+        "MATCH_TIME": "202502181800",
+        "CASA": {},
+        "OSPITE": {},
+        "ODDS": {
+            "OVER 2.5": "0",
+            "UNDER 2.5": "0"
+        }
+    },
+    "Repubblica Ceca U16 - Emirati arabi uniti U16": {
+        "CAMPIONATO": "MONDO: Amichevoli Nazionali",
+        "MATCH_CODE": "6eppLM34",
+        "MATCH_TIME": "202502181800",
+        "CASA": {},
+        "OSPITE": {},
+        "ODDS": {
+            "OVER 2.5": "0",
+            "UNDER 2.5": "0"
+        }
+    },
+    "Marocco U17 - Egitto U17": {
+        "CAMPIONATO": "MONDO: Amichevoli Nazionali",
+        "MATCH_CODE": "ni9o4qoI",
+        "MATCH_TIME": "202502181930",
+        "CASA": {},
+        "OSPITE": {},
+        "ODDS": {
+            "OVER 2.5": "0",
+            "UNDER 2.5": "0"
+        }
+    },
+    "Usti n. L. B (Cze) - Nestemice (Cze)": {
+        "CAMPIONATO": "MONDO: Amichevoli per Club",
+        "MATCH_CODE": "YeukFOig",
+        "MATCH_TIME": "202502181800",
+        "CASA": {},
+        "OSPITE": {},
+        "ODDS": {
+            "OVER 2.5": "0",
+            "UNDER 2.5": "0"
+        }
+    },
+    "Weszlo (Pol) - Ner Poddebice (Pol)": {
+        "CAMPIONATO": "MONDO: Amichevoli per Club",
+        "MATCH_CODE": "E3hMURWO",
+        "MATCH_TIME": "202502181830",
+        "CASA": {},
+        "OSPITE": {},
+        "ODDS": {
+            "OVER 2.5": "0",
+            "UNDER 2.5": "0"
+        }
+    },
+    "Burghausen (Ger) - TSV Kastl (Ger)": {
+        "CAMPIONATO": "MONDO: Amichevoli per Club",
+        "MATCH_CODE": "fwnp5yIO",
+        "MATCH_TIME": "202502181900",
+        "CASA": {},
+        "OSPITE": {},
+        "ODDS": {
+            "OVER 2.5": "0",
+            "UNDER 2.5": "0"
+        }
+    },
+    "Tahoua - Urana": {
+        "CAMPIONATO": "NIGER: Super Ligue",
+        "MATCH_CODE": "nqq3IguK",
+        "MATCH_TIME": "202502181600",
+        "CASA": {
+            "GFC": 6,
+            "GSC": 11,
+            "PG": 7,
+            "GFF5": 4,
+            "GSF5": 6,
+            "PARTITE": {
+                "Partita 1": {},
+                "Partita 2": {
+                    "1": "0-0",
+                    "2": "0-0"
+                },
+                "Partita 3": {
+                    "1": "0-0",
+                    "2": "0-0"
+                },
+                "Partita 4": {
+                    "1": "0-1",
+                    "2": "1-2"
+                },
+                "Partita 5": {}
+            }
+        },
+        "OSPITE": {
+            "GFC": 5,
+            "GSC": 4,
+            "PG": 6,
+            "GFF5": 4,
+            "GSF5": 4,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "0-0",
+                    "2": "1-2"
+                },
+                "Partita 2": {
+                    "1": "0-0",
+                    "2": "0-0"
+                },
+                "Partita 3": {},
+                "Partita 4": {
+                    "1": "1-0",
+                    "2": "0-2"
+                },
+                "Partita 5": {}
+            }
+        },
+        "ODDS": {
+            "OVER 2.5": "0",
+            "UNDER 2.5": "0"
+        }
+    },
+    "Morton - Hamilton": {
+        "CAMPIONATO": "SCOZIA: Championship",
+        "MATCH_CODE": "Uux077Hk",
+        "MATCH_TIME": "202502182045",
+        "CASA": {
+            "GFC": 13,
+            "GSC": 8,
+            "PG": 10,
+            "GFF5": 7,
+            "GSF5": 4,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "1-1",
+                    "2": "1-1"
+                },
+                "Partita 2": {
+                    "1": "0-0",
+                    "2": "2-1"
+                },
+                "Partita 3": {
+                    "1": "1-0",
+                    "2": "1-0"
+                },
+                "Partita 4": {
+                    "1": "0-0",
+                    "2": "0-0"
+                },
+                "Partita 5": {
+                    "1": "1-0",
+                    "2": "0-1"
+                }
+            }
+        },
+        "OSPITE": {
+            "GFC": 14,
+            "GSC": 23,
+            "PG": 11,
+            "GFF5": 5,
+            "GSF5": 13,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "0-2",
+                    "2": "1-0"
+                },
+                "Partita 2": {
+                    "1": "2-0",
+                    "2": "1-0"
+                },
+                "Partita 3": {
+                    "1": "0-0",
+                    "2": "1-0"
+                },
+                "Partita 4": {
+                    "1": "0-0",
+                    "2": "3-2"
+                },
+                "Partita 5": {
+                    "1": "2-1",
+                    "2": "3-0"
+                }
+            }
+        },
+        "ODDS": {
+            "OVER 2.5": "2.25",
+            "UNDER 2.5": "1.62"
+        }
+    },
+    "Broxburn Athletic - Albion Rovers": {
+        "CAMPIONATO": "SCOZIA: Lowland League",
+        "MATCH_CODE": "d6KAaTdl",
+        "MATCH_TIME": "202502182045",
+        "CASA": {
+            "GFC": 31,
+            "GSC": 18,
+            "PG": 13,
+            "GFF5": 9,
+            "GSF5": 9,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "1-3",
+                    "2": "0-3"
+                },
+                "Partita 2": {
+                    "1": "0-1",
+                    "2": "2-0"
+                },
+                "Partita 3": {
+                    "1": "1-1",
+                    "2": "1-1"
+                },
+                "Partita 4": {
+                    "1": "0-0",
+                    "2": "1-0"
+                },
+                "Partita 5": {
+                    "1": "1-0",
+                    "2": "2-0"
+                }
+            }
+        },
+        "OSPITE": {
+            "GFC": 18,
+            "GSC": 21,
+            "PG": 13,
+            "GFF5": 6,
+            "GSF5": 11,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "1-1",
+                    "2": "2-3"
+                },
+                "Partita 2": {
+                    "1": "0-0",
+                    "2": "1-0"
+                },
+                "Partita 3": {
+                    "1": "2-0",
+                    "2": "0-1"
+                },
+                "Partita 4": {
+                    "1": "1-0",
+                    "2": "0-1"
+                },
+                "Partita 5": {
+                    "1": "2-0",
+                    "2": "2-0"
+                }
+            }
+        },
+        "ODDS": {
+            "OVER 2.5": "0",
+            "UNDER 2.5": "0"
+        }
+    },
+    "Heegan - Raadsan": {
+        "CAMPIONATO": "SOMALIA: National league",
+        "MATCH_CODE": "ED9gc4Q8",
+        "MATCH_TIME": "202502181330",
+        "CASA": {
+            "GFC": 14,
+            "GSC": 1,
+            "PG": 6,
+            "GFF5": 12,
+            "GSF5": 1,
+            "PARTITE": {
+                "Partita 1": {},
+                "Partita 2": {
+                    "1": "0-1",
+                    "2": "0-0"
+                },
+                "Partita 3": {
+                    "1": "1-0",
+                    "2": "0-0"
+                },
+                "Partita 4": {
+                    "1": "2-0",
+                    "2": "1-0"
+                },
+                "Partita 5": {
+                    "1": "3-0",
+                    "2": "2-0"
+                }
+            }
+        },
+        "OSPITE": {
+            "GFC": 10,
+            "GSC": 11,
+            "PG": 6,
+            "GFF5": 9,
+            "GSF5": 10,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "2-1",
+                    "2": "1-1"
+                },
+                "Partita 2": {
+                    "1": "0-2",
+                    "2": "0-2"
+                },
+                "Partita 3": {
+                    "1": "1-0",
+                    "2": "0-0"
+                },
+                "Partita 4": {
+                    "1": "1-1",
+                    "2": "2-1"
+                },
+                "Partita 5": {
+                    "1": "3-1",
+                    "2": "0-0"
+                }
+            }
+        },
+        "ODDS": {
+            "OVER 2.5": "0",
+            "UNDER 2.5": "0"
+        }
+    },
+    "Deportes Iquique (Chi) - Santa Fe (Col)": {
+        "CAMPIONATO": "SUD AMERICA: Copa Libertadores - Qualificazione",
+        "MATCH_CODE": "UP5dloml",
+        "MATCH_TIME": "202502182300",
+        "CASA": {},
+        "OSPITE": {},
+        "ODDS": {
+            "OVER 2.5": "2.25",
+            "UNDER 2.5": "1.62"
+        }
+    },
+    "Al-Merreikh Obeid - Rabita Kosti": {
+        "CAMPIONATO": "SUDAN: Premier League",
+        "MATCH_CODE": "SdD4lhCl",
+        "MATCH_TIME": "202502181400",
+        "CASA": {
+            "GFC": 3,
+            "GSC": 4,
+            "PG": 3,
+            "GFF5": 0,
+            "GSF5": 0,
+            "PARTITE": {}
+        },
+        "OSPITE": {
+            "GFC": 4,
+            "GSC": 2,
+            "PG": 4,
+            "GFF5": 0,
+            "GSF5": 0,
+            "PARTITE": {}
+        },
+        "ODDS": {
+            "OVER 2.5": "0",
+            "UNDER 2.5": "0"
+        }
+    },
+    "Al Shorta - Al-Mergheni": {
+        "CAMPIONATO": "SUDAN: Premier League",
+        "MATCH_CODE": "QHYO8DK7",
+        "MATCH_TIME": "202502181400",
+        "CASA": {
+            "GFC": 2,
+            "GSC": 2,
+            "PG": 3,
+            "GFF5": 0,
+            "GSF5": 0,
+            "PARTITE": {}
+        },
+        "OSPITE": {
+            "GFC": 2,
+            "GSC": 2,
+            "PG": 3,
+            "GFF5": 0,
+            "GSF5": 0,
+            "PARTITE": {}
+        },
+        "ODDS": {
+            "OVER 2.5": "0",
+            "UNDER 2.5": "0"
+        }
+    },
+    "Hilal El-Fasher - Zamala Ruwaba": {
+        "CAMPIONATO": "SUDAN: Premier League",
+        "MATCH_CODE": "WQRYgElR",
+        "MATCH_TIME": "202502181400",
+        "CASA": {
+            "GFC": 6,
+            "GSC": 8,
+            "PG": 5,
+            "GFF5": 6,
+            "GSF5": 8,
+            "PARTITE": {
+                "Partita 1": {},
+                "Partita 2": {},
+                "Partita 3": {},
+                "Partita 4": {},
+                "Partita 5": {}
+            }
+        },
+        "OSPITE": {
+            "GFC": 6,
+            "GSC": 5,
+            "PG": 4,
+            "GFF5": 0,
+            "GSF5": 0,
+            "PARTITE": {}
+        },
+        "ODDS": {
+            "OVER 2.5": "0",
+            "UNDER 2.5": "0"
+        }
+    },
+    "Madani - Alamal Atbara": {
+        "CAMPIONATO": "SUDAN: Premier League",
+        "MATCH_CODE": "xWjJgdXg",
+        "MATCH_TIME": "202502181400",
+        "CASA": {
+            "GFC": 6,
+            "GSC": 1,
+            "PG": 5,
+            "GFF5": 6,
+            "GSF5": 1,
+            "PARTITE": {
+                "Partita 1": {},
+                "Partita 2": {},
+                "Partita 3": {},
+                "Partita 4": {},
+                "Partita 5": {}
+            }
+        },
+        "OSPITE": {
+            "GFC": 2,
+            "GSC": 2,
+            "PG": 3,
+            "GFF5": 0,
+            "GSF5": 0,
+            "PARTITE": {}
+        },
+        "ODDS": {
+            "OVER 2.5": "0",
+            "UNDER 2.5": "0"
+        }
+    },
+    "Munsingen - Thun II": {
+        "CAMPIONATO": "SVIZZERA: 1.Liga Gruppo 2",
+        "MATCH_CODE": "2L2KbadM",
+        "MATCH_TIME": "202502182000",
+        "CASA": {
+            "GFC": 10,
+            "GSC": 9,
+            "PG": 7,
+            "GFF5": 7,
+            "GSF5": 6,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "0-1",
+                    "2": "0-1"
+                },
+                "Partita 2": {
+                    "1": "1-0",
+                    "2": "0-1"
+                },
+                "Partita 3": {
+                    "1": "0-0",
+                    "2": "1-1"
+                },
+                "Partita 4": {
+                    "1": "2-0",
+                    "2": "1-1"
+                },
+                "Partita 5": {
+                    "1": "2-0",
+                    "2": "0-1"
+                }
+            }
+        },
+        "OSPITE": {
+            "GFC": 6,
+            "GSC": 10,
+            "PG": 5,
+            "GFF5": 6,
+            "GSF5": 10,
+            "PARTITE": {
+                "Partita 1": {
+                    "1": "0-0",
+                    "2": "0-0"
+                },
+                "Partita 2": {
+                    "1": "2-2",
+                    "2": "1-2"
+                },
+                "Partita 3": {
+                    "1": "1-1",
+                    "2": "0-0"
+                },
+                "Partita 4": {
+                    "1": "1-0",
+                    "2": "0-0"
+                },
+                "Partita 5": {
+                    "1": "3-0",
+                    "2": "2-1"
+                }
+            }
+        },
+        "ODDS": {
+            "OVER 2.5": "0",
+            "UNDER 2.5": "0"
+        }
+    }
+}

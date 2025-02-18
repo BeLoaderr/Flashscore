@@ -1,0 +1,57 @@
+{
+    "Bayern - Celtic": {
+        "CAMPIONATO": "EUROPA: Champions League - Play Off",
+        "MATCH_CODE": "hzHaWmWq",
+        "MATCH_TIME": "202502182100",
+        "ODDS": {
+            "POV05": "99.87%",
+            "GOAL_PRIMO_TEMPO": "NO DATA",
+            "MEDIA_GOAL_GENERALE": "NO DATA",
+            "MEDIA_GOAL_FORMA_5": "NO DATA"
+        }
+    },
+    "Benfica - Monaco": {
+        "CAMPIONATO": "EUROPA: Champions League - Play Off",
+        "MATCH_CODE": "QPWKwWwA",
+        "MATCH_TIME": "202502182100",
+        "ODDS": {
+            "POV05": "97.34%",
+            "GOAL_PRIMO_TEMPO": "NO DATA",
+            "MEDIA_GOAL_GENERALE": "NO DATA",
+            "MEDIA_GOAL_FORMA_5": "NO DATA"
+        }
+    },
+    "Tocantinopolis - Atletico-MG": {
+        "CAMPIONATO": "BRASILE: Copa Betano do Brasil",
+        "MATCH_CODE": "bRGpc7Kq",
+        "MATCH_TIME": "202502182200",
+        "ODDS": {
+            "POV05": "95.02%",
+            "GOAL_PRIMO_TEMPO": "NO DATA",
+            "MEDIA_GOAL_GENERALE": "NO DATA",
+            "MEDIA_GOAL_FORMA_5": "NO DATA"
+        }
+    },
+    "Shrewsbury - Huddersfield": {
+        "CAMPIONATO": "INGHILTERRA: League One",
+        "MATCH_CODE": "d8HqYQHU",
+        "MATCH_TIME": "202502182045",
+        "ODDS": {
+            "POV05": "85.83%",
+            "GOAL_PRIMO_TEMPO": "9",
+            "MEDIA_GOAL_GENERALE": "2.86",
+            "MEDIA_GOAL_FORMA_5": "3.1"
+        }
+    },
+    "Leamington - Buxton": {
+        "CAMPIONATO": "INGHILTERRA: National League Nord",
+        "MATCH_CODE": "8z10Y243",
+        "MATCH_TIME": "202502182045",
+        "ODDS": {
+            "POV05": "89.14%",
+            "GOAL_PRIMO_TEMPO": "9",
+            "MEDIA_GOAL_GENERALE": "2.96",
+            "MEDIA_GOAL_FORMA_5": "3.1"
+        }
+    }
+}
